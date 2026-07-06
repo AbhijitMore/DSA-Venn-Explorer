@@ -30,7 +30,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/06.%20Bit%20Manipulation/#5-reverse-integer-leetcode7"
+          "solution_link": ""
         },
         {
           "id": 10,
@@ -60,7 +60,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-combination-sum-ii-leetcode40"
+          "solution_link": ""
         },
         {
           "id": 43,
@@ -91,7 +91,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-n-queens-with-pruning-leetcode51"
+          "solution_link": ""
         },
         {
           "id": 90,
@@ -136,7 +136,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-3-palindrome-partitioning-leetcode131"
+          "solution_link": ""
         },
         {
           "id": 239,
@@ -152,7 +152,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#10-sliding-window-maximum-leetcode239"
+          "solution_link": ""
         },
         {
           "id": 269,
@@ -200,7 +200,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#10-find-the-duplicate-number-leetcode287"
+          "solution_link": ""
         },
         {
           "id": 309,
@@ -280,7 +280,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-3-top-k-frequent-elements-leetcode347"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#72-top-k-frequent-elements-leetcode347"
         },
         {
           "id": 355,
@@ -342,7 +342,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#8-permutation-in-string-leetcode567"
+          "solution_link": ""
         },
         {
           "id": 678,
@@ -403,7 +403,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-4-kth-largest-element-in-a-stream-leetcode703"
+          "solution_link": ""
         },
         {
           "id": 739,
@@ -418,7 +418,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-6-daily-temperatures-leetcode739"
+          "solution_link": ""
         },
         {
           "id": 743,
@@ -434,7 +434,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-3-network-delay-time-leetcode743"
+          "solution_link": ""
         },
         {
           "id": 746,
@@ -465,7 +465,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#14-partition-labels-leetcode763"
+          "solution_link": ""
         },
         {
           "id": 778,
@@ -544,7 +544,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-koko-eating-bananas-leetcode875"
+          "solution_link": ""
         },
         {
           "id": 1046,
@@ -559,7 +559,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-13-last-stone-weight-leetcode1046"
+          "solution_link": ""
         },
         {
           "id": 1448,
@@ -590,7 +590,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-4-minimum-cost-to-connect-all-points-leetcode1584"
+          "solution_link": ""
         },
         {
           "id": 1851,
@@ -607,7 +607,7 @@
           "sources": [
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/00.%20Prefix%20Sum/#9-minimum-interval-to-include-each-query-leetcode1851"
+          "solution_link": ""
         },
         {
           "id": 1899,
@@ -713,7 +713,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#problem-16-substring-with-concatenation-of-all-words-leetcode30"
+          "solution_link": ""
         },
         {
           "id": 34,
@@ -728,7 +728,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-find-first-and-last-position-of-element-in-sorted-array-leetcode34"
+          "solution_link": ""
         },
         {
           "id": 52,
@@ -759,7 +759,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#9-rotate-list-leetcode61"
+          "solution_link": ""
         },
         {
           "id": 63,
@@ -835,7 +835,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-combinations-leetcode77"
+          "solution_link": ""
         },
         {
           "id": 80,
@@ -865,7 +865,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#12-remove-duplicates-from-sorted-list-ii-leetcode82"
+          "solution_link": ""
         },
         {
           "id": 86,
@@ -881,7 +881,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-partition-list-leetcode86"
+          "solution_link": ""
         },
         {
           "id": 92,
@@ -896,7 +896,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-2-reverse-linked-list-ii-leetcode92"
+          "solution_link": ""
         },
         {
           "id": 103,
@@ -911,7 +911,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-5-binary-tree-zigzag-level-order-traversal-leetcode103"
+          "solution_link": ""
         },
         {
           "id": 106,
@@ -926,7 +926,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-construct-binary-tree-from-inorder-and-postorder-traversal-leetcode106"
+          "solution_link": ""
         },
         {
           "id": 114,
@@ -941,7 +941,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-flatten-binary-tree-to-linked-list-leetcode114"
+          "solution_link": ""
         },
         {
           "id": 117,
@@ -956,7 +956,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-17-populating-next-right-pointers-in-each-node-ii-leetcode117"
+          "solution_link": ""
         },
         {
           "id": 120,
@@ -1017,7 +1017,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-4-sum-root-to-leaf-numbers-leetcode129"
+          "solution_link": ""
         },
         {
           "id": 135,
@@ -1096,7 +1096,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#10-reverse-words-in-a-string-leetcode151"
+          "solution_link": ""
         },
         {
           "id": 162,
@@ -1111,7 +1111,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-2-find-peak-element-leetcode162"
+          "solution_link": ""
         },
         {
           "id": 172,
@@ -1142,7 +1142,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-10-binary-search-tree-iterator-leetcode173"
+          "solution_link": ""
         },
         {
           "id": 188,
@@ -1172,7 +1172,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#1-rotate-array-leetcode189"
+          "solution_link": ""
         },
         {
           "id": 201,
@@ -1187,7 +1187,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/06.%20Bit%20Manipulation/#2-bitwise-and-of-numbers-range-leetcode201"
+          "solution_link": ""
         },
         {
           "id": 209,
@@ -1234,7 +1234,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-2-count-nodes-in-complete-binary-tree-leetcode222"
+          "solution_link": ""
         },
         {
           "id": 224,
@@ -1249,7 +1249,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-11-basic-calculator-leetcode224"
+          "solution_link": ""
         },
         {
           "id": 274,
@@ -1295,7 +1295,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/14.%20K-way%20Merge/#problem-5-find-k-pairs-with-smallest-sums-leetcode373"
+          "solution_link": ""
         },
         {
           "id": 380,
@@ -1376,7 +1376,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/00.%20Prefix%20Sum/#3-minimum-number-of-arrows-to-burst-balloons-leetcode452"
+          "solution_link": ""
         },
         {
           "id": 502,
@@ -1392,7 +1392,7 @@
           "sources": [
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-3-ipo-leetcode502"
+          "solution_link": ""
         },
         {
           "id": 909,
@@ -1452,7 +1452,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-add-two-numbers-leetcode2"
+          "solution_link": ""
         },
         {
           "id": 22,
@@ -1484,7 +1484,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-reverse-nodes-in-k-group-leetcode25"
+          "solution_link": ""
         },
         {
           "id": 36,
@@ -1517,7 +1517,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-3-jump-game-ii-leetcode45"
+          "solution_link": ""
         },
         {
           "id": 50,
@@ -1550,7 +1550,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-6-edit-distance-leetcode72"
+          "solution_link": ""
         },
         {
           "id": 74,
@@ -1566,7 +1566,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-search-a-2d-matrix-leetcode74"
+          "solution_link": ""
         },
         {
           "id": 97,
@@ -1598,7 +1598,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-3-word-ladder-word-transformation-variants-leetcode127"
+          "solution_link": ""
         },
         {
           "id": 128,
@@ -1647,7 +1647,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-4-gas-station-leetcode134"
+          "solution_link": ""
         },
         {
           "id": 138,
@@ -1664,7 +1664,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-copy-list-with-random-pointer-leetcode138"
+          "solution_link": ""
         },
         {
           "id": 167,
@@ -1713,7 +1713,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-1-kth-largest-element-in-an-array-leetcode215"
+          "solution_link": ""
         }
       ]
     },
@@ -1756,7 +1756,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#1-sort-colors-leetcode75"
+          "solution_link": ""
         },
         {
           "id": 83,
@@ -1786,7 +1786,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-binary-tree-inorder-traversal-leetcode94"
+          "solution_link": ""
         },
         {
           "id": 111,
@@ -1802,7 +1802,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-5-minimum-depth-of-binary-tree-leetcode111"
+          "solution_link": ""
         },
         {
           "id": 118,
@@ -1847,7 +1847,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-binary-tree-preorder-traversal-leetcode144"
+          "solution_link": ""
         },
         {
           "id": 145,
@@ -1862,7 +1862,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-3-binary-tree-postorder-traversal-leetcode145"
+          "solution_link": ""
         },
         {
           "id": 160,
@@ -1923,7 +1923,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-remove-linked-list-elements-leetcode203"
+          "solution_link": ""
         },
         {
           "id": 225,
@@ -1939,7 +1939,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-1-implement-stack-using-queues-leetcode225"
+          "solution_link": ""
         },
         {
           "id": 231,
@@ -1986,7 +1986,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#5-palindrome-linked-list-leetcode234"
+          "solution_link": ""
         },
         {
           "id": 257,
@@ -2002,7 +2002,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-binary-tree-paths-leetcode257"
+          "solution_link": ""
         },
         {
           "id": 278,
@@ -2017,7 +2017,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-first-bad-version-leetcode278"
+          "solution_link": ""
         },
         {
           "id": 283,
@@ -2290,7 +2290,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#problem-14-find-all-anagrams-in-a-string-leetcode438"
+          "solution_link": ""
         },
         {
           "id": 441,
@@ -2321,7 +2321,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/05.%20Cyclic%20Sort/#problem-3-find-all-numbers-disappeared-in-an-array-leetcode448"
+          "solution_link": ""
         },
         {
           "id": 455,
@@ -2337,7 +2337,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-1-assign-cookies-leetcode455"
+          "solution_link": ""
         },
         {
           "id": 459,
@@ -2534,7 +2534,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-1-fibonacci-number-with-memoization-leetcode509"
+          "solution_link": ""
         },
         {
           "id": 520,
@@ -2656,7 +2656,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-binary-tree-tilt-leetcode563"
+          "solution_link": ""
         },
         {
           "id": 566,
@@ -2777,7 +2777,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-4-merge-two-binary-trees-leetcode617"
+          "solution_link": ""
         },
         {
           "id": 628,
@@ -2808,7 +2808,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#1-maximum-average-subarray-i-leetcode643"
+          "solution_link": ""
         },
         {
           "id": 645,
@@ -2823,7 +2823,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/05.%20Cyclic%20Sort/#problem-4-set-mismatch-leetcode645"
+          "solution_link": ""
         },
         {
           "id": 653,
@@ -2839,7 +2839,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-two-sum-iv-input-is-a-bst-leetcode653"
+          "solution_link": ""
         },
         {
           "id": 721,
@@ -2887,7 +2887,7 @@
           "sources": [
             "Grind 75"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#4-middle-of-the-linked-list-leetcode876"
+          "solution_link": ""
         }
       ]
     },
@@ -2916,7 +2916,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-3-subsets-leetcode78"
+          "solution_link": ""
         },
         {
           "id": 84,
@@ -2932,7 +2932,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-13-largest-rectangle-in-histogram-leetcode84"
+          "solution_link": ""
         },
         {
           "id": 110,
@@ -2948,7 +2948,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-6-balanced-binary-tree-leetcode110"
+          "solution_link": ""
         },
         {
           "id": 416,
@@ -2964,7 +2964,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-partition-equal-subset-sum-leetcode416"
+          "solution_link": ""
         },
         {
           "id": 543,
@@ -2980,7 +2980,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-3-diameter-of-binary-tree-leetcode543"
+          "solution_link": ""
         },
         {
           "id": 621,
@@ -2997,7 +2997,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-2-task-scheduler-leetcode621"
+          "solution_link": ""
         },
         {
           "id": 704,
@@ -3013,7 +3013,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-binary-search-leetcode704"
+          "solution_link": ""
         },
         {
           "id": 973,
@@ -3029,7 +3029,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-2-k-closest-points-to-origin-leetcode973"
+          "solution_link": ""
         },
         {
           "id": 981,
@@ -3174,7 +3174,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-2-search-insert-position-leetcode35"
+          "solution_link": ""
         },
         {
           "id": 58,
@@ -3224,7 +3224,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-3-sqrtx-leetcode69"
+          "solution_link": ""
         },
         {
           "id": 88,
@@ -3256,7 +3256,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-9-symmetric-tree-leetcode101"
+          "solution_link": ""
         },
         {
           "id": 108,
@@ -3273,7 +3273,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-4-convert-sorted-array-to-binary-search-tree-leetcode108"
+          "solution_link": ""
         },
         {
           "id": 112,
@@ -3289,7 +3289,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-path-sum-leetcode112"
+          "solution_link": ""
         },
         {
           "id": 169,
@@ -3370,7 +3370,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-1-lowest-common-ancestor-in-a-binary-tree-leetcode236"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#75-lowest-common-ancestor-of-a-binary-tree-leetcode236"
         },
         {
           "id": 290,
@@ -3435,7 +3435,7 @@
             "Grind 75",
             "LeetCode Top 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-3-minimum-absolute-difference-in-bst-leetcode530"
+          "solution_link": ""
         },
         {
           "id": 637,
@@ -3481,7 +3481,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-4-median-of-two-sorted-arrays-leetcode4"
+          "solution_link": ""
         },
         {
           "id": 42,
@@ -3498,7 +3498,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-12-trapping-rain-water-leetcode42"
+          "solution_link": ""
         },
         {
           "id": 66,
@@ -3569,7 +3569,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-4-evaluate-reverse-polish-notation-leetcode150"
+          "solution_link": ""
         },
         {
           "id": 155,
@@ -3587,7 +3587,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-10-min-stack-leetcode155"
+          "solution_link": ""
         },
         {
           "id": 199,
@@ -3604,7 +3604,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-binary-tree-right-side-view-leetcode199"
+          "solution_link": ""
         },
         {
           "id": 202,
@@ -3621,7 +3621,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#3-happy-number-leetcode202"
+          "solution_link": ""
         }
       ]
     },
@@ -3678,7 +3678,7 @@
             "Blind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-decode-ways-leetcode91"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#24-decode-ways-leetcode91"
         },
         {
           "id": 143,
@@ -3695,7 +3695,7 @@
             "Blind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#6-reorder-list-leetcode143"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#43-reorder-list-leetcode143"
         },
         {
           "id": 152,
@@ -3745,7 +3745,7 @@
             "Blind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-2-meeting-rooms-ii-leetcode253"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#38-meeting-rooms-ii-leetcode253"
         },
         {
           "id": 261,
@@ -3810,7 +3810,7 @@
             "Blind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/06.%20Bit%20Manipulation/#7-sum-of-two-integers-leetcode371"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#11-sum-of-two-integers-leetcode371"
         },
         {
           "id": 417,
@@ -3843,7 +3843,7 @@
             "Blind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#2-longest-repeating-character-replacement-leetcode424"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#49-longest-repeating-character-replacement-leetcode424"
         },
         {
           "id": 435,
@@ -3861,7 +3861,7 @@
             "Blind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-10-non-overlapping-intervals-leetcode435"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#36-non-overlapping-intervals-leetcode435"
         },
         {
           "id": 647,
@@ -3936,7 +3936,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#8-remove-nth-node-from-end-of-list-leetcode19"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#42-remove-nth-node-from-end-of-list-leetcode19"
         },
         {
           "id": 48,
@@ -3987,7 +3987,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-2-jump-game-leetcode55"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#26-jump-game-leetcode55"
         },
         {
           "id": 73,
@@ -4056,7 +4056,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/19.%20Tries/#problem-6-add-and-search-word-leetcode211"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#69-design-add-and-search-words-data-structure-leetcode211"
         },
         {
           "id": 212,
@@ -4075,7 +4075,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/19.%20Tries/#problem-4-word-search-ii-leetcode212"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#70-word-search-ii-leetcode212"
         },
         {
           "id": 300,
@@ -4093,7 +4093,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-longest-increasing-subsequence-leetcode300"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#18-longest-increasing-subsequence-leetcode300"
         }
       ]
     },
@@ -4152,7 +4152,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-1-reverse-linked-list-recursive-leetcode206"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#39-reverse-linked-list-leetcode206"
         },
         {
           "id": 217,
@@ -4186,7 +4186,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-lowest-common-ancestor-of-a-binary-search-tree-leetcode235"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#67-lowest-common-ancestor-of-a-binary-search-tree-leetcode235"
         },
         {
           "id": 252,
@@ -4204,7 +4204,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-1-meeting-rooms-leetcode252"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#37-meeting-rooms-leetcode252"
         },
         {
           "id": 268,
@@ -4221,7 +4221,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/05.%20Cyclic%20Sort/#problem-1-missing-numberleetcode268"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#14-missing-number-leetcode268"
         },
         {
           "id": 297,
@@ -4239,7 +4239,7 @@
             "Grind 75",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-19-serialize-and-deserialize-binary-tree-leetcode297"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#62-serialize-and-deserialize-binary-tree-leetcode297"
         },
         {
           "id": 338,
@@ -4315,7 +4315,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#1-two-sum-leetcode1"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#1-two-sum-leetcode1"
         },
         {
           "id": 3,
@@ -4370,7 +4370,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#2-container-with-most-waterleetcode11"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#10-container-with-most-water-leetcode11"
         },
         {
           "id": 15,
@@ -4389,7 +4389,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#7-3sum-leetcode15"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#9-3sum-leetcode15"
         },
         {
           "id": 17,
@@ -4425,7 +4425,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-2-valid-parentheses-leetcode20"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#52-valid-parentheses-leetcode20"
         },
         {
           "id": 21,
@@ -4443,7 +4443,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-3-merge-two-sorted-lists-leetcode21"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#41-merge-two-sorted-lists-leetcode21"
         },
         {
           "id": 23,
@@ -4463,7 +4463,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-2-merge-k-sorted-lists-leetcode23"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#71-merge-k-sorted-lists-leetcode23"
         },
         {
           "id": 33,
@@ -4481,7 +4481,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-search-in-rotated-sorted-array-leetcode33"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#8-search-in-rotated-sorted-array-leetcode33"
         },
         {
           "id": 39,
@@ -4499,7 +4499,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-combination-sum-leetcode39"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#21-combination-sum-leetcode39"
         },
         {
           "id": 46,
@@ -4517,7 +4517,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-permutations-leetcode46"
+          "solution_link": ""
         },
         {
           "id": 53,
@@ -4573,7 +4573,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-1-merge-intervals-leetcode56"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#35-merge-intervals-leetcode56"
         },
         {
           "id": 57,
@@ -4591,7 +4591,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-2-insert-interval-leetcode57"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#34-insert-interval-leetcode57"
         },
         {
           "id": 70,
@@ -4627,7 +4627,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#13-minimum-window-substring-leetcode76"
+          "solution_link": ""
         },
         {
           "id": 79,
@@ -4647,7 +4647,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-word-search-with-pruning-leetcode79"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#47-word-search-leetcode79"
         },
         {
           "id": 98,
@@ -4666,7 +4666,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-validate-binary-search-tree-leetcode98"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#65-validate-binary-search-tree-leetcode98"
         },
         {
           "id": 100,
@@ -4684,7 +4684,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-8-same-tree-leetcode100"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#58-same-tree-leetcode100"
         },
         {
           "id": 102,
@@ -4702,7 +4702,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-4-binary-tree-level-order-traversal-leetcode102"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#61-binary-tree-level-order-traversal-leetcode102"
         },
         {
           "id": 104,
@@ -4720,7 +4720,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-4-maximum-depth-of-binary-tree-leetcode104"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#57-maximum-depth-of-binary-tree-leetcode104"
         },
         {
           "id": 105,
@@ -4738,7 +4738,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#64-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105"
         },
         {
           "id": 121,
@@ -4774,7 +4774,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-5-binary-tree-maximum-path-sum-leetcode124"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#60-binary-tree-maximum-path-sum-leetcode124"
         },
         {
           "id": 125,
@@ -4829,7 +4829,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-5-word-break-leetcode139"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#20-word-break-leetcode139"
         },
         {
           "id": 141,
@@ -4848,7 +4848,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#1-linked-list-cycle-leetcode141"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#40-linked-list-cycle-leetcode141"
         },
         {
           "id": 190,
@@ -4903,7 +4903,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-3-number-of-islands-dfs-backtracking-variant-leetcode200"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#30-number-of-islands-leetcode200"
         },
         {
           "id": 207,
@@ -4940,7 +4940,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/19.%20Tries/#problem-1-implement-trie-prefix-tree-leetcode208"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#68-implement-trie-prefix-tree-leetcode208"
         },
         {
           "id": 226,
@@ -4958,7 +4958,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-invert-binary-tree-leetcode226"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#59-invert-binary-tree-leetcode226"
         },
         {
           "id": 230,
@@ -4977,7 +4977,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-8-kth-smallest-element-in-a-bst-leetcode230"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#66-kth-smallest-element-in-a-bst-leetcode230"
         },
         {
           "id": 238,
@@ -4995,7 +4995,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/00.%20Prefix%20Sum/#5-product-of-array-except-self-leetcode238"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#4-product-of-array-except-self-leetcode238"
         },
         {
           "id": 242,
@@ -5032,7 +5032,7 @@
             "LeetCode Top 150",
             "NeetCode 150"
           ],
-          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-2-find-median-from-data-stream-leetcode295"
+          "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#73-find-median-from-data-stream-leetcode295"
         },
         {
           "id": 322,
@@ -5072,7 +5072,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#1-two-sum-leetcode1"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#1-two-sum-leetcode1"
     },
     {
       "id": 3,
@@ -5127,7 +5127,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#2-container-with-most-waterleetcode11"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#10-container-with-most-water-leetcode11"
     },
     {
       "id": 15,
@@ -5146,7 +5146,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#7-3sum-leetcode15"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#9-3sum-leetcode15"
     },
     {
       "id": 17,
@@ -5182,7 +5182,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-2-valid-parentheses-leetcode20"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#52-valid-parentheses-leetcode20"
     },
     {
       "id": 21,
@@ -5200,7 +5200,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-3-merge-two-sorted-lists-leetcode21"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#41-merge-two-sorted-lists-leetcode21"
     },
     {
       "id": 23,
@@ -5220,7 +5220,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-2-merge-k-sorted-lists-leetcode23"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#71-merge-k-sorted-lists-leetcode23"
     },
     {
       "id": 33,
@@ -5238,7 +5238,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-search-in-rotated-sorted-array-leetcode33"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#8-search-in-rotated-sorted-array-leetcode33"
     },
     {
       "id": 39,
@@ -5256,7 +5256,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-combination-sum-leetcode39"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#21-combination-sum-leetcode39"
     },
     {
       "id": 46,
@@ -5274,7 +5274,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-permutations-leetcode46"
+      "solution_link": ""
     },
     {
       "id": 53,
@@ -5330,7 +5330,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-1-merge-intervals-leetcode56"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#35-merge-intervals-leetcode56"
     },
     {
       "id": 57,
@@ -5348,7 +5348,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-2-insert-interval-leetcode57"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#34-insert-interval-leetcode57"
     },
     {
       "id": 70,
@@ -5384,7 +5384,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#13-minimum-window-substring-leetcode76"
+      "solution_link": ""
     },
     {
       "id": 79,
@@ -5404,7 +5404,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-word-search-with-pruning-leetcode79"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#47-word-search-leetcode79"
     },
     {
       "id": 98,
@@ -5423,7 +5423,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-validate-binary-search-tree-leetcode98"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#65-validate-binary-search-tree-leetcode98"
     },
     {
       "id": 100,
@@ -5441,7 +5441,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-8-same-tree-leetcode100"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#58-same-tree-leetcode100"
     },
     {
       "id": 102,
@@ -5459,7 +5459,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-4-binary-tree-level-order-traversal-leetcode102"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#61-binary-tree-level-order-traversal-leetcode102"
     },
     {
       "id": 104,
@@ -5477,7 +5477,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-4-maximum-depth-of-binary-tree-leetcode104"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#57-maximum-depth-of-binary-tree-leetcode104"
     },
     {
       "id": 105,
@@ -5495,7 +5495,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#64-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105"
     },
     {
       "id": 121,
@@ -5531,7 +5531,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-5-binary-tree-maximum-path-sum-leetcode124"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#60-binary-tree-maximum-path-sum-leetcode124"
     },
     {
       "id": 125,
@@ -5586,7 +5586,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-5-word-break-leetcode139"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#20-word-break-leetcode139"
     },
     {
       "id": 141,
@@ -5605,7 +5605,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#1-linked-list-cycle-leetcode141"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#40-linked-list-cycle-leetcode141"
     },
     {
       "id": 190,
@@ -5660,7 +5660,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-3-number-of-islands-dfs-backtracking-variant-leetcode200"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#30-number-of-islands-leetcode200"
     },
     {
       "id": 207,
@@ -5697,7 +5697,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/19.%20Tries/#problem-1-implement-trie-prefix-tree-leetcode208"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#68-implement-trie-prefix-tree-leetcode208"
     },
     {
       "id": 226,
@@ -5715,7 +5715,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-invert-binary-tree-leetcode226"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#59-invert-binary-tree-leetcode226"
     },
     {
       "id": 230,
@@ -5734,7 +5734,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-8-kth-smallest-element-in-a-bst-leetcode230"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#66-kth-smallest-element-in-a-bst-leetcode230"
     },
     {
       "id": 238,
@@ -5752,7 +5752,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/00.%20Prefix%20Sum/#5-product-of-array-except-self-leetcode238"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#4-product-of-array-except-self-leetcode238"
     },
     {
       "id": 242,
@@ -5789,7 +5789,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-2-find-median-from-data-stream-leetcode295"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#73-find-median-from-data-stream-leetcode295"
     },
     {
       "id": 322,
@@ -5824,7 +5824,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-4-median-of-two-sorted-arrays-leetcode4"
+      "solution_link": ""
     },
     {
       "id": 19,
@@ -5842,7 +5842,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#8-remove-nth-node-from-end-of-list-leetcode19"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#42-remove-nth-node-from-end-of-list-leetcode19"
     },
     {
       "id": 42,
@@ -5859,7 +5859,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-12-trapping-rain-water-leetcode42"
+      "solution_link": ""
     },
     {
       "id": 48,
@@ -5910,7 +5910,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-2-jump-game-leetcode55"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#26-jump-game-leetcode55"
     },
     {
       "id": 62,
@@ -6015,7 +6015,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-4-evaluate-reverse-polish-notation-leetcode150"
+      "solution_link": ""
     },
     {
       "id": 153,
@@ -6050,7 +6050,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-10-min-stack-leetcode155"
+      "solution_link": ""
     },
     {
       "id": 198,
@@ -6084,7 +6084,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-binary-tree-right-side-view-leetcode199"
+      "solution_link": ""
     },
     {
       "id": 202,
@@ -6101,7 +6101,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#3-happy-number-leetcode202"
+      "solution_link": ""
     },
     {
       "id": 206,
@@ -6118,7 +6118,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-1-reverse-linked-list-recursive-leetcode206"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#39-reverse-linked-list-leetcode206"
     },
     {
       "id": 211,
@@ -6136,7 +6136,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/19.%20Tries/#problem-6-add-and-search-word-leetcode211"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#69-design-add-and-search-words-data-structure-leetcode211"
     },
     {
       "id": 212,
@@ -6155,7 +6155,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/19.%20Tries/#problem-4-word-search-ii-leetcode212"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#70-word-search-ii-leetcode212"
     },
     {
       "id": 217,
@@ -6189,7 +6189,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-lowest-common-ancestor-of-a-binary-search-tree-leetcode235"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#67-lowest-common-ancestor-of-a-binary-search-tree-leetcode235"
     },
     {
       "id": 252,
@@ -6207,7 +6207,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-1-meeting-rooms-leetcode252"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#37-meeting-rooms-leetcode252"
     },
     {
       "id": 268,
@@ -6224,7 +6224,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/05.%20Cyclic%20Sort/#problem-1-missing-numberleetcode268"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#14-missing-number-leetcode268"
     },
     {
       "id": 297,
@@ -6242,7 +6242,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-19-serialize-and-deserialize-binary-tree-leetcode297"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#62-serialize-and-deserialize-binary-tree-leetcode297"
     },
     {
       "id": 300,
@@ -6260,7 +6260,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-longest-increasing-subsequence-leetcode300"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#18-longest-increasing-subsequence-leetcode300"
     },
     {
       "id": 338,
@@ -6310,7 +6310,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-add-two-numbers-leetcode2"
+      "solution_link": ""
     },
     {
       "id": 13,
@@ -6375,7 +6375,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-reverse-nodes-in-k-group-leetcode25"
+      "solution_link": ""
     },
     {
       "id": 26,
@@ -6439,7 +6439,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-2-search-insert-position-leetcode35"
+      "solution_link": ""
     },
     {
       "id": 36,
@@ -6472,7 +6472,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-3-jump-game-ii-leetcode45"
+      "solution_link": ""
     },
     {
       "id": 50,
@@ -6539,7 +6539,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-3-sqrtx-leetcode69"
+      "solution_link": ""
     },
     {
       "id": 72,
@@ -6555,7 +6555,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-6-edit-distance-leetcode72"
+      "solution_link": ""
     },
     {
       "id": 74,
@@ -6571,7 +6571,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-search-a-2d-matrix-leetcode74"
+      "solution_link": ""
     },
     {
       "id": 78,
@@ -6587,7 +6587,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-3-subsets-leetcode78"
+      "solution_link": ""
     },
     {
       "id": 84,
@@ -6603,7 +6603,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-13-largest-rectangle-in-histogram-leetcode84"
+      "solution_link": ""
     },
     {
       "id": 88,
@@ -6635,7 +6635,7 @@
         "Blind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-decode-ways-leetcode91"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#24-decode-ways-leetcode91"
     },
     {
       "id": 97,
@@ -6667,7 +6667,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-9-symmetric-tree-leetcode101"
+      "solution_link": ""
     },
     {
       "id": 108,
@@ -6684,7 +6684,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-4-convert-sorted-array-to-binary-search-tree-leetcode108"
+      "solution_link": ""
     },
     {
       "id": 110,
@@ -6700,7 +6700,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-6-balanced-binary-tree-leetcode110"
+      "solution_link": ""
     },
     {
       "id": 112,
@@ -6716,7 +6716,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-path-sum-leetcode112"
+      "solution_link": ""
     },
     {
       "id": 127,
@@ -6732,7 +6732,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-3-word-ladder-word-transformation-variants-leetcode127"
+      "solution_link": ""
     },
     {
       "id": 128,
@@ -6781,7 +6781,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-4-gas-station-leetcode134"
+      "solution_link": ""
     },
     {
       "id": 138,
@@ -6798,7 +6798,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-copy-list-with-random-pointer-leetcode138"
+      "solution_link": ""
     },
     {
       "id": 143,
@@ -6815,7 +6815,7 @@
         "Blind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#6-reorder-list-leetcode143"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#43-reorder-list-leetcode143"
     },
     {
       "id": 152,
@@ -6928,7 +6928,7 @@
         "LeetCode Top 150",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-1-kth-largest-element-in-an-array-leetcode215"
+      "solution_link": ""
     },
     {
       "id": 219,
@@ -6977,7 +6977,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-1-lowest-common-ancestor-in-a-binary-tree-leetcode236"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#75-lowest-common-ancestor-of-a-binary-tree-leetcode236"
     },
     {
       "id": 253,
@@ -6995,7 +6995,7 @@
         "Blind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-2-meeting-rooms-ii-leetcode253"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#38-meeting-rooms-ii-leetcode253"
     },
     {
       "id": 261,
@@ -7076,7 +7076,7 @@
         "Blind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/06.%20Bit%20Manipulation/#7-sum-of-two-integers-leetcode371"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#11-sum-of-two-integers-leetcode371"
     },
     {
       "id": 383,
@@ -7124,7 +7124,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-partition-equal-subset-sum-leetcode416"
+      "solution_link": ""
     },
     {
       "id": 417,
@@ -7157,7 +7157,7 @@
         "Blind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#2-longest-repeating-character-replacement-leetcode424"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#49-longest-repeating-character-replacement-leetcode424"
     },
     {
       "id": 435,
@@ -7175,7 +7175,7 @@
         "Blind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-10-non-overlapping-intervals-leetcode435"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#36-non-overlapping-intervals-leetcode435"
     },
     {
       "id": 530,
@@ -7192,7 +7192,7 @@
         "Grind 75",
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-3-minimum-absolute-difference-in-bst-leetcode530"
+      "solution_link": ""
     },
     {
       "id": 543,
@@ -7208,7 +7208,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-3-diameter-of-binary-tree-leetcode543"
+      "solution_link": ""
     },
     {
       "id": 621,
@@ -7225,7 +7225,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-2-task-scheduler-leetcode621"
+      "solution_link": ""
     },
     {
       "id": 637,
@@ -7273,7 +7273,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-binary-search-leetcode704"
+      "solution_link": ""
     },
     {
       "id": 973,
@@ -7289,7 +7289,7 @@
         "Grind 75",
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-2-k-closest-points-to-origin-leetcode973"
+      "solution_link": ""
     },
     {
       "id": 981,
@@ -7370,7 +7370,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/06.%20Bit%20Manipulation/#5-reverse-integer-leetcode7"
+      "solution_link": ""
     },
     {
       "id": 8,
@@ -7447,7 +7447,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#problem-16-substring-with-concatenation-of-all-words-leetcode30"
+      "solution_link": ""
     },
     {
       "id": 34,
@@ -7462,7 +7462,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-find-first-and-last-position-of-element-in-sorted-array-leetcode34"
+      "solution_link": ""
     },
     {
       "id": 40,
@@ -7477,7 +7477,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-combination-sum-ii-leetcode40"
+      "solution_link": ""
     },
     {
       "id": 43,
@@ -7508,7 +7508,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-1-n-queens-with-pruning-leetcode51"
+      "solution_link": ""
     },
     {
       "id": 52,
@@ -7539,7 +7539,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#9-rotate-list-leetcode61"
+      "solution_link": ""
     },
     {
       "id": 63,
@@ -7615,7 +7615,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#1-sort-colors-leetcode75"
+      "solution_link": ""
     },
     {
       "id": 77,
@@ -7630,7 +7630,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/12.%20Backtracking/#problem-2-combinations-leetcode77"
+      "solution_link": ""
     },
     {
       "id": 80,
@@ -7660,7 +7660,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#12-remove-duplicates-from-sorted-list-ii-leetcode82"
+      "solution_link": ""
     },
     {
       "id": 83,
@@ -7691,7 +7691,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-partition-list-leetcode86"
+      "solution_link": ""
     },
     {
       "id": 90,
@@ -7721,7 +7721,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-2-reverse-linked-list-ii-leetcode92"
+      "solution_link": ""
     },
     {
       "id": 94,
@@ -7736,7 +7736,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-binary-tree-inorder-traversal-leetcode94"
+      "solution_link": ""
     },
     {
       "id": 103,
@@ -7751,7 +7751,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-5-binary-tree-zigzag-level-order-traversal-leetcode103"
+      "solution_link": ""
     },
     {
       "id": 106,
@@ -7766,7 +7766,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-construct-binary-tree-from-inorder-and-postorder-traversal-leetcode106"
+      "solution_link": ""
     },
     {
       "id": 111,
@@ -7782,7 +7782,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-5-minimum-depth-of-binary-tree-leetcode111"
+      "solution_link": ""
     },
     {
       "id": 114,
@@ -7797,7 +7797,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-flatten-binary-tree-to-linked-list-leetcode114"
+      "solution_link": ""
     },
     {
       "id": 115,
@@ -7827,7 +7827,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-17-populating-next-right-pointers-in-each-node-ii-leetcode117"
+      "solution_link": ""
     },
     {
       "id": 118,
@@ -7918,7 +7918,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-4-sum-root-to-leaf-numbers-leetcode129"
+      "solution_link": ""
     },
     {
       "id": 131,
@@ -7933,7 +7933,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-3-palindrome-partitioning-leetcode131"
+      "solution_link": ""
     },
     {
       "id": 135,
@@ -7978,7 +7978,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-binary-tree-preorder-traversal-leetcode144"
+      "solution_link": ""
     },
     {
       "id": 145,
@@ -7993,7 +7993,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-3-binary-tree-postorder-traversal-leetcode145"
+      "solution_link": ""
     },
     {
       "id": 148,
@@ -8042,7 +8042,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#10-reverse-words-in-a-string-leetcode151"
+      "solution_link": ""
     },
     {
       "id": 160,
@@ -8073,7 +8073,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-2-find-peak-element-leetcode162"
+      "solution_link": ""
     },
     {
       "id": 168,
@@ -8134,7 +8134,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-10-binary-search-tree-iterator-leetcode173"
+      "solution_link": ""
     },
     {
       "id": 188,
@@ -8164,7 +8164,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/01.%20Two%20Pointers/#1-rotate-array-leetcode189"
+      "solution_link": ""
     },
     {
       "id": 201,
@@ -8179,7 +8179,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/06.%20Bit%20Manipulation/#2-bitwise-and-of-numbers-range-leetcode201"
+      "solution_link": ""
     },
     {
       "id": 203,
@@ -8194,7 +8194,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/07.%20Linked%20List/#problem-3-remove-linked-list-elements-leetcode203"
+      "solution_link": ""
     },
     {
       "id": 209,
@@ -8241,7 +8241,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-2-count-nodes-in-complete-binary-tree-leetcode222"
+      "solution_link": ""
     },
     {
       "id": 224,
@@ -8256,7 +8256,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-11-basic-calculator-leetcode224"
+      "solution_link": ""
     },
     {
       "id": 225,
@@ -8272,7 +8272,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-1-implement-stack-using-queues-leetcode225"
+      "solution_link": ""
     },
     {
       "id": 231,
@@ -8319,7 +8319,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#5-palindrome-linked-list-leetcode234"
+      "solution_link": ""
     },
     {
       "id": 239,
@@ -8335,7 +8335,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#10-sliding-window-maximum-leetcode239"
+      "solution_link": ""
     },
     {
       "id": 257,
@@ -8351,7 +8351,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-1-binary-tree-paths-leetcode257"
+      "solution_link": ""
     },
     {
       "id": 269,
@@ -8397,7 +8397,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-first-bad-version-leetcode278"
+      "solution_link": ""
     },
     {
       "id": 283,
@@ -8444,7 +8444,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#10-find-the-duplicate-number-leetcode287"
+      "solution_link": ""
     },
     {
       "id": 289,
@@ -8601,7 +8601,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-3-top-k-frequent-elements-leetcode347"
+      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#72-top-k-frequent-elements-leetcode347"
     },
     {
       "id": 349,
@@ -8678,7 +8678,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/14.%20K-way%20Merge/#problem-5-find-k-pairs-with-smallest-sums-leetcode373"
+      "solution_link": ""
     },
     {
       "id": 374,
@@ -8909,7 +8909,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#problem-14-find-all-anagrams-in-a-string-leetcode438"
+      "solution_link": ""
     },
     {
       "id": 441,
@@ -8940,7 +8940,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/05.%20Cyclic%20Sort/#problem-3-find-all-numbers-disappeared-in-an-array-leetcode448"
+      "solution_link": ""
     },
     {
       "id": 452,
@@ -8957,7 +8957,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/00.%20Prefix%20Sum/#3-minimum-number-of-arrows-to-burst-balloons-leetcode452"
+      "solution_link": ""
     },
     {
       "id": 455,
@@ -8973,7 +8973,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-1-assign-cookies-leetcode455"
+      "solution_link": ""
     },
     {
       "id": 459,
@@ -9141,7 +9141,7 @@
       "sources": [
         "LeetCode Top 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-3-ipo-leetcode502"
+      "solution_link": ""
     },
     {
       "id": 504,
@@ -9201,7 +9201,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/11.%20Divide%20and%20Conquer/#problem-1-fibonacci-number-with-memoization-leetcode509"
+      "solution_link": ""
     },
     {
       "id": 518,
@@ -9338,7 +9338,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-binary-tree-tilt-leetcode563"
+      "solution_link": ""
     },
     {
       "id": 566,
@@ -9368,7 +9368,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#8-permutation-in-string-leetcode567"
+      "solution_link": ""
     },
     {
       "id": 575,
@@ -9474,7 +9474,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/04.%20Overlapping%20Intervals/#problem-4-merge-two-binary-trees-leetcode617"
+      "solution_link": ""
     },
     {
       "id": 628,
@@ -9505,7 +9505,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/03.%20Sliding%20Window/#1-maximum-average-subarray-i-leetcode643"
+      "solution_link": ""
     },
     {
       "id": 645,
@@ -9520,7 +9520,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/05.%20Cyclic%20Sort/#problem-4-set-mismatch-leetcode645"
+      "solution_link": ""
     },
     {
       "id": 653,
@@ -9536,7 +9536,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/16.%20Tree/#problem-2-two-sum-iv-input-is-a-bst-leetcode653"
+      "solution_link": ""
     },
     {
       "id": 678,
@@ -9597,7 +9597,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-4-kth-largest-element-in-a-stream-leetcode703"
+      "solution_link": ""
     },
     {
       "id": 721,
@@ -9644,7 +9644,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/08.%20Stack/#problem-6-daily-temperatures-leetcode739"
+      "solution_link": ""
     },
     {
       "id": 743,
@@ -9660,7 +9660,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-3-network-delay-time-leetcode743"
+      "solution_link": ""
     },
     {
       "id": 746,
@@ -9691,7 +9691,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#14-partition-labels-leetcode763"
+      "solution_link": ""
     },
     {
       "id": 778,
@@ -9770,7 +9770,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/09.%20Binary%20Search/#problem-1-koko-eating-bananas-leetcode875"
+      "solution_link": ""
     },
     {
       "id": 876,
@@ -9786,7 +9786,7 @@
       "sources": [
         "Grind 75"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/02.%20Fast%20and%20Slow%20Pointers/#4-middle-of-the-linked-list-leetcode876"
+      "solution_link": ""
     },
     {
       "id": 909,
@@ -9832,7 +9832,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/15.%20Heaps/#problem-13-last-stone-weight-leetcode1046"
+      "solution_link": ""
     },
     {
       "id": 1448,
@@ -9863,7 +9863,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/10.%20Greedy%20Algorithm/#problem-4-minimum-cost-to-connect-all-points-leetcode1584"
+      "solution_link": ""
     },
     {
       "id": 1851,
@@ -9880,7 +9880,7 @@
       "sources": [
         "NeetCode 150"
       ],
-      "solution_link": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Patterns/00.%20Prefix%20Sum/#9-minimum-interval-to-include-each-query-leetcode1851"
+      "solution_link": ""
     },
     {
       "id": 1899,

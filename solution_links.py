@@ -20,10 +20,9 @@ BASE_URL = "https://abhijitmore.github.io/BrewingIntelligence"
 HEADING_ID_RE = re.compile(r'id="([^"]*leetcode\d+[^"]*)"', re.IGNORECASE)
 LEETCODE_ID_RE = re.compile(r"leetcode(\d+)$", re.IGNORECASE)
 
-# Lower priority number wins when the same problem appears on multiple pages.
+# Blind 75 is the canonical solution destination for DSA Venn Explorer links.
 SOURCE_DIRS = [
-    ("Programming/DSA Patterns", 0),
-    ("Programming/DSA Sheets/Blind 75", 1),
+    ("Programming/DSA Sheets/Blind 75", 0),
 ]
 
 
