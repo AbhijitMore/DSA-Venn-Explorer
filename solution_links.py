@@ -20,10 +20,14 @@ BASE_URL = "https://abhijitmore.github.io/BrewingIntelligence"
 HEADING_ID_RE = re.compile(r'id="([^"]*leetcode\d+[^"]*)"', re.IGNORECASE)
 LEETCODE_ID_RE = re.compile(r"leetcode(\d+)$", re.IGNORECASE)
 
-# Blind 75 is the canonical solution destination for DSA Venn Explorer links.
-SOURCE_DIRS = [
-    ("Programming/DSA Sheets/Blind 75", 0),
+SHEET_DIRS = [
+    ("Blind 75", "Programming/DSA Sheets/Blind 75"),
+    ("NeetCode 150", "Programming/DSA Sheets/NeetCode 150"),
+    ("LeetCode Top 150", "Programming/DSA Sheets/LeetCode Top 150"),
+    ("Grind 75", "Programming/DSA Sheets/Grind 75"),
 ]
+
+SHEET_PRIORITY = [name for name, _ in SHEET_DIRS]
 
 
 def path_to_page_url(relative_html: Path) -> str:
@@ -49,24 +53,60 @@ def extract_links_from_html(html_path: Path, site_dir: Path) -> dict[int, str]:
     return links
 
 
+def load_sheet_link_maps(site_dir: Path) -> dict[str, dict[int, str]]:
+    maps: dict[str, dict[int, str]] = {}
+    for sheet_name, subdir in SHEET_DIRS:
+        sheet_path = site_dir / subdir
+        if not sheet_path.is_dir():
+            maps[sheet_name] = {}
+            continue
+        merged: dict[int, str] = {}
+        for html_path in sorted(sheet_path.rglob("index.html")):
+            merged.update(extract_links_from_html(html_path, site_dir))
+        maps[sheet_name] = merged
+    return maps
+
+
+def load_question_sources() -> dict[int, list[str]]:
+    try:
+        from load_data import build_questions
+    except ImportError:
+        return {}
+
+    sources_by_id: dict[int, list[str]] = {}
+    for question in build_questions(attach_solutions=False):
+        sources_by_id[question["id"]] = question.get("sources", [])
+    return sources_by_id
+
+
+def choose_sheet(sources: list[str]) -> str | None:
+    for sheet_name in SHEET_PRIORITY:
+        if sheet_name in sources:
+            return sheet_name
+    return None
+
+
 def build_solution_links(site_dir: Path) -> dict[str, str]:
     if not site_dir.is_dir():
         raise FileNotFoundError(f"Brewing Intelligence site directory not found: {site_dir}")
 
-    merged: dict[int, tuple[int, str]] = {}
+    sheet_maps = load_sheet_link_maps(site_dir)
+    sources_by_id = load_question_sources()
+    merged: dict[int, str] = {}
 
-    for source_subdir, priority in SOURCE_DIRS:
-        source_path = site_dir / source_subdir
-        if not source_path.is_dir():
+    for lc_id, sources in sources_by_id.items():
+        sheet_name = choose_sheet(sources)
+        if not sheet_name:
             continue
+        url = sheet_maps.get(sheet_name, {}).get(lc_id)
+        if url:
+            merged[lc_id] = url
 
-        for html_path in sorted(source_path.rglob("index.html")):
-            for lc_id, url in extract_links_from_html(html_path, site_dir).items():
-                existing = merged.get(lc_id)
-                if existing is None or priority < existing[0]:
-                    merged[lc_id] = (priority, url)
+    for sheet_name in SHEET_PRIORITY:
+        for lc_id, url in sheet_maps.get(sheet_name, {}).items():
+            merged.setdefault(lc_id, url)
 
-    return {str(lc_id): url for lc_id, (_, url) in sorted(merged.items())}
+    return {str(lc_id): url for lc_id, url in sorted(merged.items())}
 
 
 def load_solution_links() -> dict[str, str]:
