@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: pages-publish
@@ -28,11 +28,10 @@ jobs:
           mkdir -p _site
           cp index.html index.js index.css data.js _site/
 
-      - name: Publish built site to public Pages repo
+      - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
-          external_repository: AbhijitMore/DSA-Venn-Explorer
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
           publish_branch: gh-pages
           force_orphan: true

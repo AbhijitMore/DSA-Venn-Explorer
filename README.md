@@ -1,10 +1,10 @@
-# DSA Venn Explorer (source)
+# DSA Venn Explorer
 
-Private source for the [DSA Venn Explorer](https://abhijitmore.github.io/DSA-Venn-Explorer/) interactive app.
+Interactive explorer for 300 consolidated LeetCode questions across Blind 75, Grind 75, LeetCode Top 150, and NeetCode 150. Solution links point to write-ups on [Brewing Intelligence](https://abhijitmore.github.io/BrewingIntelligence/).
 
-Explore 300 consolidated LeetCode questions across Blind 75, Grind 75, LeetCode Top 150, and NeetCode 150. Solution links point to write-ups on [Brewing Intelligence](https://abhijitmore.github.io/BrewingIntelligence/).
+**Live app:** [abhijitmore.github.io/DSA-Venn-Explorer](https://abhijitmore.github.io/DSA-Venn-Explorer/)
 
-Built static files are published to the public [AbhijitMore/DSA-Venn-Explorer](https://github.com/AbhijitMore/DSA-Venn-Explorer) repo on the `gh-pages` branch.
+Deploys automatically on push to `main` via GitHub Actions (`GITHUB_TOKEN` → `gh-pages` branch). No personal access token required.
 
 ## Local development
 
@@ -41,7 +41,7 @@ This pipeline:
 
 ## Deploy
 
-Push to `main` on this repo. GitHub Actions publishes the static app to the public Pages repo.
+Push to `main`. GitHub Actions builds and publishes to the `gh-pages` branch automatically.
 
 ## Related
 
