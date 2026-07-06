@@ -102,10 +102,6 @@ def build_solution_links(site_dir: Path) -> dict[str, str]:
         if url:
             merged[lc_id] = url
 
-    for sheet_name in SHEET_PRIORITY:
-        for lc_id, url in sheet_maps.get(sheet_name, {}).items():
-            merged.setdefault(lc_id, url)
-
     return {str(lc_id): url for lc_id, url in sorted(merged.items())}
 
 

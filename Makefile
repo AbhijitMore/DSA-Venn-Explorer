@@ -20,6 +20,7 @@ generate:
 
 validate:
 	$(PYTHON) validate_data.py
+	$(PYTHON) validate_solution_links.py
 
 venv:
 	python3 -m venv .venv

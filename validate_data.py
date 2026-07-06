@@ -118,7 +118,7 @@ def validate_generated_questions(report: ValidationReport, questions):
     with_solutions = sum(1 for q in questions if q.get("solution_link"))
     if with_solutions == 0:
         report.warn("No Brewing Intelligence solution links attached")
-    else:
+    elif with_solutions != len(questions):
         coverage = with_solutions / len(questions) * 100 if questions else 0
         report.warn(
             f"Brewing Intelligence solution coverage: {with_solutions}/{len(questions)} ({coverage:.1f}%)"

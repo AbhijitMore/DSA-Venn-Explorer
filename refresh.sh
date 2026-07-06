@@ -29,5 +29,6 @@ echo "==> Generating venn_data.json"
 
 echo "==> Validating outputs"
 "$PYTHON" validate_data.py
+"$PYTHON" validate_solution_links.py
 
 echo "Done. Refresh the browser to load updated data."
