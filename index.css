@@ -1547,8 +1547,8 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 34px;
-  padding: 0.2rem 0.45rem;
+  min-width: 36px;
+  padding: 0.2rem 0.5rem;
   border-radius: 999px;
   border: 1px solid rgba(251, 191, 36, 0.35);
   background: rgba(251, 191, 36, 0.12);
@@ -1746,7 +1746,10 @@ input:focus:not(:focus-visible) {
   .difficulty-tabs .tab-btn { flex: 1; text-align: center; }
   .subset-stats-inline { width: 100%; justify-content: space-between; }
   .table-container { margin: 0 0.5rem; }
-  .questions-table { min-width: 920px; }
+  .questions-table { min-width: 860px; }
+  .questions-table .col-original,
+  .questions-table th[data-sort="original_category"],
+  .questions-table td:nth-child(6) { display: none; }
 }
 
 @media (max-width: 480px) {

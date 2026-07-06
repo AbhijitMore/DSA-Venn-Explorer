@@ -11,7 +11,7 @@ Deploys automatically on push to `main` via GitHub Actions (`GITHUB_TOKEN` → `
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install pandas openpyxl
+pip install -r requirements.txt
 
 # Serve the app
 python3 -m http.server 8080
@@ -35,9 +35,13 @@ This pipeline:
 
 1. Validates question tags
 2. Normalizes Excel categories
-3. Builds LeetCode → Brewing Intelligence solution URLs (`solution_links.py`)
+3. Builds LeetCode → Brewing Intelligence solution URLs (`solution_links.py`), including per-sheet maps for context-aware linking in the UI
 4. Generates `data.js` and `venn_data.json`
-5. Validates outputs
+5. Validates outputs (`validate_data.py`, `validate_solution_links.py`, `validate_data_js.py`)
+
+## Canonical repo
+
+The public [`AbhijitMore/DSA-Venn-Explorer`](https://github.com/AbhijitMore/DSA-Venn-Explorer) repo is the source of truth for the live site. The older private `-source` mirror can be archived.
 
 ## Deploy
 

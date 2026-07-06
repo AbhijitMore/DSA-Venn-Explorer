@@ -188,6 +188,33 @@ document.addEventListener("DOMContentLoaded", () => {
     }[sourceName] || sourceName;
   }
 
+  function resolveSolutionLink(question) {
+    const bySheet = question.solution_links || {};
+    let preferredSheets = [];
+
+    if (filterMode === "intersection" && activeFilterValue) {
+      const combo = VENN_DATA.combinations[activeFilterValue];
+      if (combo?.in_lists?.length) preferredSheets = combo.in_lists;
+    } else if (filterMode === "source") {
+      preferredSheets = getActiveSources();
+    }
+
+    for (const sheetName of preferredSheets) {
+      if (bySheet[sheetName]) {
+        return { url: bySheet[sheetName], sheet: sheetName };
+      }
+    }
+
+    if (question.solution_link) {
+      return { url: question.solution_link, sheet: question.solution_sheet || "" };
+    }
+    return { url: "", sheet: "" };
+  }
+
+  function solutionSheetShort(sheetName) {
+    return LIST_CONFIG[sheetName]?.short || sheetName;
+  }
+
   function sortSourcesByListOrder(sourceNames) {
     return [...sourceNames].sort((a, b) => VENN_DATA.lists.indexOf(a) - VENN_DATA.lists.indexOf(b));
   }
@@ -297,14 +324,18 @@ document.addEventListener("DOMContentLoaded", () => {
     row.appendChild(sourcesCell);
 
     const solutionCell = document.createElement("td");
-    if (q.solution_link) {
+    const solution = resolveSolutionLink(q);
+    if (solution.url) {
       const solutionBtn = document.createElement("a");
-      solutionBtn.href = q.solution_link;
+      solutionBtn.href = solution.url;
       solutionBtn.target = "_blank";
       solutionBtn.rel = "noopener";
       solutionBtn.className = "solution-link-btn";
-      solutionBtn.title = "View solution on Brewing Intelligence";
-      solutionBtn.textContent = "BI";
+      const sheetLabel = solution.sheet ? solutionSheetShort(solution.sheet) : "BI";
+      solutionBtn.title = solution.sheet
+        ? `View ${solution.sheet} solution on Brewing Intelligence`
+        : "View solution on Brewing Intelligence";
+      solutionBtn.textContent = sheetLabel;
       solutionCell.appendChild(solutionBtn);
     } else {
       const empty = document.createElement("span");
@@ -403,7 +434,12 @@ document.addEventListener("DOMContentLoaded", () => {
         case "original_category": cmp = questionOriginalCategory(a).localeCompare(questionOriginalCategory(b)); break;
         case "tags": cmp = questionTags(a).join(",").localeCompare(questionTags(b).join(",")); break;
         case "sources": cmp = a.sources.length - b.sources.length; break;
-        case "solution_link": cmp = (a.solution_link || "").localeCompare(b.solution_link || ""); break;
+        case "solution_link": {
+          const sheetA = resolveSolutionLink(a).sheet;
+          const sheetB = resolveSolutionLink(b).sheet;
+          cmp = sheetA.localeCompare(sheetB);
+          break;
+        }
         case "solved": cmp = (solvedSet.has(a.id) ? 1 : 0) - (solvedSet.has(b.id) ? 1 : 0); break;
         default: cmp = 0;
       }
@@ -1534,7 +1570,10 @@ document.addEventListener("DOMContentLoaded", () => {
       const tagText = tags.length ? ` · ${tags.join(", ")}` : "";
       const original = questionOriginalCategory(q);
       const originalText = original !== q.category ? ` · orig: ${original}` : "";
-      const solutionText = q.solution_link ? ` · [solution](${q.solution_link})` : "";
+      const solution = resolveSolutionLink(q);
+      const solutionText = solution.url
+        ? ` · [${solutionSheetShort(solution.sheet) || "solution"}](${solution.url})`
+        : "";
       return `- [${check}] [#${q.id} ${q.name}](${q.link}) · ${q.difficulty} · ${q.category}${originalText}${tagText} · ${q.sources.map(s => LIST_CONFIG[s].short).join(", ")}${solutionText}`;
     }).join("\n");
     navigator.clipboard.writeText(`# DSA Questions (${qs.length})\n\n${md}`).then(() => {

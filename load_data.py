@@ -6,8 +6,6 @@ from pathlib import Path
 
 import pandas as pd
 
-from solution_links import load_solution_links
-
 from categories import (
     KNOWN_SOURCE_LISTS,
     format_tags,
@@ -61,10 +59,26 @@ def row_to_question(row):
 
 def attach_solution_links(questions, solution_links=None):
     if solution_links is None:
-        solution_links = load_solution_links()
+        from solution_links import load_solution_link_records_from_file
+
+        records = load_solution_link_records_from_file()
+    elif solution_links:
+        sample = next(iter(solution_links.values()))
+        if isinstance(sample, dict):
+            records = solution_links
+        else:
+            records = {
+                lc_id: {"default": url, "sheet": "", "by_sheet": {}}
+                for lc_id, url in solution_links.items()
+            }
+    else:
+        records = {}
 
     for question in questions:
-        question["solution_link"] = solution_links.get(str(question["id"]), "")
+        record = records.get(str(question["id"]), {})
+        question["solution_link"] = record.get("default", "")
+        question["solution_sheet"] = record.get("sheet", "")
+        question["solution_links"] = record.get("by_sheet", {})
     return questions
 
 

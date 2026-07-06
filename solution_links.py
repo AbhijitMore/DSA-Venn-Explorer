@@ -28,6 +28,12 @@ SHEET_DIRS = [
 ]
 
 SHEET_PRIORITY = [name for name, _ in SHEET_DIRS]
+SHEET_SHORT = {
+    "Blind 75": "B75",
+    "Grind 75": "G75",
+    "LeetCode Top 150": "LC",
+    "NeetCode 150": "NC",
+}
 
 
 def path_to_page_url(relative_html: Path) -> str:
@@ -79,43 +85,73 @@ def load_question_sources() -> dict[int, list[str]]:
     return sources_by_id
 
 
-def choose_sheet(sources: list[str]) -> str | None:
-    for sheet_name in SHEET_PRIORITY:
+def choose_sheet(sources: list[str], preferred: list[str] | None = None) -> str | None:
+    order = preferred or SHEET_PRIORITY
+    for sheet_name in order:
         if sheet_name in sources:
             return sheet_name
     return None
 
 
-def build_solution_links(site_dir: Path) -> dict[str, str]:
+def build_solution_link_records(site_dir: Path) -> dict[str, dict]:
     if not site_dir.is_dir():
         raise FileNotFoundError(f"Brewing Intelligence site directory not found: {site_dir}")
 
     sheet_maps = load_sheet_link_maps(site_dir)
     sources_by_id = load_question_sources()
-    merged: dict[int, str] = {}
+    records: dict[str, dict] = {}
 
     for lc_id, sources in sources_by_id.items():
-        sheet_name = choose_sheet(sources)
-        if not sheet_name:
+        by_sheet: dict[str, str] = {}
+        for sheet_name in SHEET_PRIORITY:
+            if sheet_name not in sources:
+                continue
+            url = sheet_maps.get(sheet_name, {}).get(lc_id)
+            if url:
+                by_sheet[sheet_name] = url
+        if not by_sheet:
             continue
-        url = sheet_maps.get(sheet_name, {}).get(lc_id)
-        if url:
-            merged[lc_id] = url
 
-    return {str(lc_id): url for lc_id, url in sorted(merged.items())}
+        default_sheet = choose_sheet(sources)
+        if not default_sheet or default_sheet not in by_sheet:
+            default_sheet = next(iter(by_sheet))
+
+        records[str(lc_id)] = {
+            "default": by_sheet[default_sheet],
+            "sheet": default_sheet,
+            "by_sheet": by_sheet,
+        }
+
+    return records
+
+
+def build_solution_links(site_dir: Path) -> dict[str, str]:
+    records = build_solution_link_records(site_dir)
+    return {lc_id: record["default"] for lc_id, record in sorted(records.items())}
 
 
 def load_solution_links() -> dict[str, str]:
+    records = load_solution_link_records_from_file()
+    return {lc_id: record["default"] for lc_id, record in records.items()}
+
+
+def load_solution_link_records_from_file() -> dict[str, dict]:
     if not OUTPUT_PATH.exists():
         return {}
     with open(OUTPUT_PATH, encoding="utf-8") as f:
-        return json.load(f)
+        payload = json.load(f)
+    if isinstance(payload, dict) and payload and isinstance(next(iter(payload.values())), dict):
+        return payload
+    return {
+        lc_id: {"default": url, "sheet": "", "by_sheet": {}}
+        for lc_id, url in payload.items()
+    }
 
 
-def write_solution_links(links: dict[str, str], output_path: Path | None = None) -> Path:
+def write_solution_links(records: dict[str, dict], output_path: Path | None = None) -> Path:
     path = output_path or OUTPUT_PATH
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(links, f, indent=2, sort_keys=True)
+        json.dump(records, f, indent=2, sort_keys=True)
         f.write("\n")
     return path
 
@@ -123,13 +159,13 @@ def write_solution_links(links: dict[str, str], output_path: Path | None = None)
 def main() -> int:
     site_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_SITE_DIR
     try:
-        links = build_solution_links(site_dir)
+        records = build_solution_link_records(site_dir)
     except FileNotFoundError as exc:
         print(f"Error: {exc}", file=sys.stderr)
         return 1
 
-    output_path = write_solution_links(links)
-    print(f"Mapped {len(links)} LeetCode problems to Brewing Intelligence solutions.")
+    output_path = write_solution_links(records)
+    print(f"Mapped {len(records)} LeetCode problems to Brewing Intelligence solutions.")
     print(f"Written to {output_path}")
     return 0
 
