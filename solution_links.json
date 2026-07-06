@@ -1,0 +1,2345 @@
+{
+  "1": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#6-two-sum-leetcode1",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#41-two-sum-leetcode1",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#26-two-sum-leetcode1",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#12-two-sum-leetcode1"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#6-two-sum-leetcode1",
+    "sheet": "Blind 75"
+  },
+  "10": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#63-regular-expression-matching-leetcode10"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#63-regular-expression-matching-leetcode10",
+    "sheet": "NeetCode 150"
+  },
+  "100": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#67-same-tree-leetcode100",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#154-same-tree-leetcode100",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#138-same-tree-leetcode100",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#140-same-tree-leetcode100"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#67-same-tree-leetcode100",
+    "sheet": "Blind 75"
+  },
+  "101": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#157-symmetric-tree-leetcode101",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#140-symmetric-tree-leetcode101"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#140-symmetric-tree-leetcode101",
+    "sheet": "LeetCode Top 150"
+  },
+  "102": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#60-binary-tree-level-order-traversal-leetcode102",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#134-binary-tree-level-order-traversal-leetcode102",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#123-binary-tree-level-order-traversal-leetcode102",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#130-binary-tree-level-order-traversal-leetcode102"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#60-binary-tree-level-order-traversal-leetcode102",
+    "sheet": "Blind 75"
+  },
+  "103": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#126-binary-tree-zigzag-level-order-traversal-leetcode103"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#126-binary-tree-zigzag-level-order-traversal-leetcode103",
+    "sheet": "LeetCode Top 150"
+  },
+  "104": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#66-maximum-depth-of-binary-tree-leetcode104",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#149-maximum-depth-of-binary-tree-leetcode104",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#134-maximum-depth-of-binary-tree-leetcode104",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#139-maximum-depth-of-binary-tree-leetcode104"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#66-maximum-depth-of-binary-tree-leetcode104",
+    "sheet": "Blind 75"
+  },
+  "1046": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#93-last-stone-weight-leetcode1046"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#93-last-stone-weight-leetcode1046",
+    "sheet": "NeetCode 150"
+  },
+  "105": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#62-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#141-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#128-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#133-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#62-construct-binary-tree-from-preorder-and-inorder-traversal-leetcode105",
+    "sheet": "Blind 75"
+  },
+  "106": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#127-construct-binary-tree-from-inorder-and-postorder-traversal-leetcode106"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#127-construct-binary-tree-from-inorder-and-postorder-traversal-leetcode106",
+    "sheet": "LeetCode Top 150"
+  },
+  "108": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#71-convert-sorted-array-to-binary-search-tree-leetcode108",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#55-convert-sorted-array-to-binary-search-tree-leetcode108"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#55-convert-sorted-array-to-binary-search-tree-leetcode108",
+    "sheet": "LeetCode Top 150"
+  },
+  "11": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#74-container-with-most-water-leetcode11",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#162-container-with-most-water-leetcode11",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#146-container-with-most-water-leetcode11",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#147-container-with-most-water-leetcode11"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#74-container-with-most-water-leetcode11",
+    "sheet": "Blind 75"
+  },
+  "110": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#132-balanced-binary-tree-leetcode110",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#129-balanced-binary-tree-leetcode110"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#129-balanced-binary-tree-leetcode110",
+    "sheet": "NeetCode 150"
+  },
+  "111": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#152-minimum-depth-of-binary-tree-leetcode111"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#152-minimum-depth-of-binary-tree-leetcode111",
+    "sheet": "Grind 75"
+  },
+  "112": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#153-path-sum-leetcode112",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#136-path-sum-leetcode112"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#136-path-sum-leetcode112",
+    "sheet": "LeetCode Top 150"
+  },
+  "114": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#130-flatten-binary-tree-to-linked-list-leetcode114"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#130-flatten-binary-tree-to-linked-list-leetcode114",
+    "sheet": "LeetCode Top 150"
+  },
+  "1143": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#28-longest-common-subsequence-leetcode1143",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#54-longest-common-subsequence-leetcode1143"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#28-longest-common-subsequence-leetcode1143",
+    "sheet": "Blind 75"
+  },
+  "115": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#49-distinct-subsequences-leetcode115"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#49-distinct-subsequences-leetcode115",
+    "sheet": "NeetCode 150"
+  },
+  "117": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#137-populating-next-right-pointers-in-each-node-ii-leetcode117"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#137-populating-next-right-pointers-in-each-node-ii-leetcode117",
+    "sheet": "LeetCode Top 150"
+  },
+  "118": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#26-pascals-triangle-leetcode118"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#26-pascals-triangle-leetcode118",
+    "sheet": "Grind 75"
+  },
+  "119": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#27-pascals-triangle-ii-leetcode119"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#27-pascals-triangle-ii-leetcode119",
+    "sheet": "Grind 75"
+  },
+  "12": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#8-integer-to-roman-leetcode12"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#8-integer-to-roman-leetcode12",
+    "sheet": "LeetCode Top 150"
+  },
+  "120": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#72-triangle-leetcode120"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#72-triangle-leetcode120",
+    "sheet": "LeetCode Top 150"
+  },
+  "121": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#21-best-time-to-buy-and-sell-stock-leetcode121",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#72-best-time-to-buy-and-sell-stock-leetcode121",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#57-best-time-to-buy-and-sell-stock-leetcode121",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#42-best-time-to-buy-and-sell-stock-leetcode121"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#21-best-time-to-buy-and-sell-stock-leetcode121",
+    "sheet": "Blind 75"
+  },
+  "122": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#58-best-time-to-buy-and-sell-stock-ii-leetcode122"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#58-best-time-to-buy-and-sell-stock-ii-leetcode122",
+    "sheet": "LeetCode Top 150"
+  },
+  "123": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#59-best-time-to-buy-and-sell-stock-iii-leetcode123"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#59-best-time-to-buy-and-sell-stock-iii-leetcode123",
+    "sheet": "LeetCode Top 150"
+  },
+  "124": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#61-binary-tree-maximum-path-sum-leetcode124",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#135-binary-tree-maximum-path-sum-leetcode124",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#124-binary-tree-maximum-path-sum-leetcode124",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#131-binary-tree-maximum-path-sum-leetcode124"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#61-binary-tree-maximum-path-sum-leetcode124",
+    "sheet": "Blind 75"
+  },
+  "125": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#75-valid-palindrome-leetcode125",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#168-valid-palindrome-leetcode125",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#150-valid-palindrome-leetcode125",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#150-valid-palindrome-leetcode125"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#75-valid-palindrome-leetcode125",
+    "sheet": "Blind 75"
+  },
+  "127": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#83-word-ladder-leetcode127",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#85-word-ladder-leetcode127"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#85-word-ladder-leetcode127",
+    "sheet": "NeetCode 150"
+  },
+  "128": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#14-longest-consecutive-sequence-leetcode128",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#9-longest-consecutive-sequence-leetcode128"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#9-longest-consecutive-sequence-leetcode128",
+    "sheet": "NeetCode 150"
+  },
+  "129": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#139-sum-root-to-leaf-numbers-leetcode129"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#139-sum-root-to-leaf-numbers-leetcode129",
+    "sheet": "LeetCode Top 150"
+  },
+  "13": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#35-roman-to-integer-leetcode13",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#23-roman-to-integer-leetcode13"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#23-roman-to-integer-leetcode13",
+    "sheet": "LeetCode Top 150"
+  },
+  "130": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#82-surrounded-regions-leetcode130",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#82-surrounded-regions-leetcode130"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#82-surrounded-regions-leetcode130",
+    "sheet": "NeetCode 150"
+  },
+  "131": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#19-palindrome-partitioning-leetcode131"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#19-palindrome-partitioning-leetcode131",
+    "sheet": "NeetCode 150"
+  },
+  "133": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#36-clone-graph-leetcode133",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#83-clone-graph-leetcode133",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#75-clone-graph-leetcode133",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#69-clone-graph-leetcode133"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#36-clone-graph-leetcode133",
+    "sheet": "Blind 75"
+  },
+  "134": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#4-gas-station-leetcode134",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#4-gas-station-leetcode134"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#4-gas-station-leetcode134",
+    "sheet": "NeetCode 150"
+  },
+  "135": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#1-candy-leetcode135"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#1-candy-leetcode135",
+    "sheet": "LeetCode Top 150"
+  },
+  "136": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#65-single-number-leetcode136",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#48-single-number-leetcode136",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#34-single-number-leetcode136"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#34-single-number-leetcode136",
+    "sheet": "NeetCode 150"
+  },
+  "137": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#49-single-number-ii-leetcode137"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#49-single-number-ii-leetcode137",
+    "sheet": "LeetCode Top 150"
+  },
+  "138": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#93-copy-list-with-random-pointer-leetcode138",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#103-copy-list-with-random-pointer-leetcode138"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#103-copy-list-with-random-pointer-leetcode138",
+    "sheet": "NeetCode 150"
+  },
+  "139": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#35-word-break-leetcode139",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#80-word-break-leetcode139",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#74-word-break-leetcode139",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#66-word-break-leetcode139"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#35-word-break-leetcode139",
+    "sheet": "Blind 75"
+  },
+  "14": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#16-longest-common-prefix-leetcode14",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#13-longest-common-prefix-leetcode14"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#13-longest-common-prefix-leetcode14",
+    "sheet": "LeetCode Top 150"
+  },
+  "141": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#48-linked-list-cycle-leetcode141",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#100-linked-list-cycle-leetcode141",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#94-linked-list-cycle-leetcode141",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#104-linked-list-cycle-leetcode141"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#48-linked-list-cycle-leetcode141",
+    "sheet": "Blind 75"
+  },
+  "143": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#51-reorder-list-leetcode143",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#107-reorder-list-leetcode143"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#51-reorder-list-leetcode143",
+    "sheet": "Blind 75"
+  },
+  "144": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#138-binary-tree-preorder-traversal-leetcode144"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#138-binary-tree-preorder-traversal-leetcode144",
+    "sheet": "Grind 75"
+  },
+  "1448": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#134-count-good-nodes-in-binary-tree-leetcode1448"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#134-count-good-nodes-in-binary-tree-leetcode1448",
+    "sheet": "NeetCode 150"
+  },
+  "145": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#137-binary-tree-postorder-traversal-leetcode145"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#137-binary-tree-postorder-traversal-leetcode145",
+    "sheet": "Grind 75"
+  },
+  "146": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#67-lru-cache-leetcode146",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#52-lru-cache-leetcode146",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#38-lru-cache-leetcode146"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#38-lru-cache-leetcode146",
+    "sheet": "NeetCode 150"
+  },
+  "148": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#56-sort-list-leetcode148"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#56-sort-list-leetcode148",
+    "sheet": "LeetCode Top 150"
+  },
+  "149": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#103-max-points-on-a-line-leetcode149"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#103-max-points-on-a-line-leetcode149",
+    "sheet": "LeetCode Top 150"
+  },
+  "15": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#73-3sum-leetcode15",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#161-3sum-leetcode15",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#145-3sum-leetcode15",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#146-3sum-leetcode15"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#73-3sum-leetcode15",
+    "sheet": "Blind 75"
+  },
+  "150": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#125-evaluate-reverse-polish-notation-leetcode150",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#118-evaluate-reverse-polish-notation-leetcode150",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#126-evaluate-reverse-polish-notation-leetcode150"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#126-evaluate-reverse-polish-notation-leetcode150",
+    "sheet": "NeetCode 150"
+  },
+  "151": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#22-reverse-words-in-a-string-leetcode151"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#22-reverse-words-in-a-string-leetcode151",
+    "sheet": "LeetCode Top 150"
+  },
+  "152": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#31-maximum-product-subarray-leetcode152",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#58-maximum-product-subarray-leetcode152"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#31-maximum-product-subarray-leetcode152",
+    "sheet": "Blind 75"
+  },
+  "153": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#12-find-minimum-in-rotated-sorted-array-leetcode153",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#38-find-minimum-in-rotated-sorted-array-leetcode153",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#25-find-minimum-in-rotated-sorted-array-leetcode153"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#12-find-minimum-in-rotated-sorted-array-leetcode153",
+    "sheet": "Blind 75"
+  },
+  "155": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#68-min-stack-leetcode155",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#53-min-stack-leetcode155",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#39-min-stack-leetcode155"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#39-min-stack-leetcode155",
+    "sheet": "NeetCode 150"
+  },
+  "1584": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#74-min-cost-to-connect-all-points-leetcode1584"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#74-min-cost-to-connect-all-points-leetcode1584",
+    "sheet": "NeetCode 150"
+  },
+  "160": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#99-intersection-of-two-linked-lists-leetcode160"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#99-intersection-of-two-linked-lists-leetcode160",
+    "sheet": "Grind 75"
+  },
+  "162": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#39-find-peak-element-leetcode162"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#39-find-peak-element-leetcode162",
+    "sheet": "LeetCode Top 150"
+  },
+  "167": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#149-two-sum-ii-input-array-is-sorted-leetcode167",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#149-two-sum-ii-input-array-is-sorted-leetcode167"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#149-two-sum-ii-input-array-is-sorted-leetcode167",
+    "sheet": "NeetCode 150"
+  },
+  "168": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#111-excel-sheet-column-title-leetcode168"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#111-excel-sheet-column-title-leetcode168",
+    "sheet": "Grind 75"
+  },
+  "169": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#20-majority-element-leetcode169",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#15-majority-element-leetcode169"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#15-majority-element-leetcode169",
+    "sheet": "LeetCode Top 150"
+  },
+  "17": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#9-letter-combinations-of-a-phone-number-leetcode17",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#46-letter-combinations-of-a-phone-number-leetcode17",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#33-letter-combinations-of-a-phone-number-leetcode17",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#17-letter-combinations-of-a-phone-number-leetcode17"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#9-letter-combinations-of-a-phone-number-leetcode17",
+    "sheet": "Blind 75"
+  },
+  "171": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#110-excel-sheet-column-number-leetcode171"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#110-excel-sheet-column-number-leetcode171",
+    "sheet": "Grind 75"
+  },
+  "172": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#102-factorial-trailing-zeroes-leetcode172"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#102-factorial-trailing-zeroes-leetcode172",
+    "sheet": "LeetCode Top 150"
+  },
+  "173": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#122-binary-search-tree-iterator-leetcode173"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#122-binary-search-tree-iterator-leetcode173",
+    "sheet": "LeetCode Top 150"
+  },
+  "1851": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#100-minimum-interval-to-include-each-query-leetcode1851"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#100-minimum-interval-to-include-each-query-leetcode1851",
+    "sheet": "NeetCode 150"
+  },
+  "188": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#60-best-time-to-buy-and-sell-stock-iv-leetcode188"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#60-best-time-to-buy-and-sell-stock-iv-leetcode188",
+    "sheet": "LeetCode Top 150"
+  },
+  "189": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#24-rotate-array-leetcode189"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#24-rotate-array-leetcode189",
+    "sheet": "LeetCode Top 150"
+  },
+  "1899": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#87-merge-triplets-to-form-target-triplet-leetcode1899"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#87-merge-triplets-to-form-target-triplet-leetcode1899",
+    "sheet": "NeetCode 150"
+  },
+  "19": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#50-remove-nth-node-from-end-of-list-leetcode19",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#98-remove-nth-node-from-end-of-list-leetcode19",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#106-remove-nth-node-from-end-of-list-leetcode19"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#50-remove-nth-node-from-end-of-list-leetcode19",
+    "sheet": "Blind 75"
+  },
+  "190": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#17-reverse-bits-leetcode190",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#64-reverse-bits-leetcode190",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#47-reverse-bits-leetcode190",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#33-reverse-bits-leetcode190"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#17-reverse-bits-leetcode190",
+    "sheet": "Blind 75"
+  },
+  "191": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#16-number-of-1-bits-leetcode191",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#62-number-of-1-bits-leetcode191",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#46-number-of-1-bits-leetcode191",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#32-number-of-1-bits-leetcode191"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#16-number-of-1-bits-leetcode191",
+    "sheet": "Blind 75"
+  },
+  "198": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#26-house-robber-leetcode198",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#64-house-robber-leetcode198",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#51-house-robber-leetcode198"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#26-house-robber-leetcode198",
+    "sheet": "Blind 75"
+  },
+  "199": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#139-binary-tree-right-side-view-leetcode199",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#125-binary-tree-right-side-view-leetcode199",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#132-binary-tree-right-side-view-leetcode199"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#132-binary-tree-right-side-view-leetcode199",
+    "sheet": "NeetCode 150"
+  },
+  "2": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#92-add-two-numbers-leetcode2",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#102-add-two-numbers-leetcode2"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#102-add-two-numbers-leetcode2",
+    "sheet": "NeetCode 150"
+  },
+  "20": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#59-valid-parentheses-leetcode20",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#130-valid-parentheses-leetcode20",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#120-valid-parentheses-leetcode20",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#128-valid-parentheses-leetcode20"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#59-valid-parentheses-leetcode20",
+    "sheet": "Blind 75"
+  },
+  "200": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#40-number-of-islands-leetcode200",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#88-number-of-islands-leetcode200",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#80-number-of-islands-leetcode200",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#77-number-of-islands-leetcode200"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#40-number-of-islands-leetcode200",
+    "sheet": "Blind 75"
+  },
+  "201": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#45-bitwise-and-of-numbers-range-leetcode201"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#45-bitwise-and-of-numbers-range-leetcode201",
+    "sheet": "LeetCode Top 150"
+  },
+  "2013": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#110-detect-squares-leetcode2013"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#110-detect-squares-leetcode2013",
+    "sheet": "NeetCode 150"
+  },
+  "202": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#9-happy-number-leetcode202",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#7-happy-number-leetcode202",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#6-happy-number-leetcode202"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#6-happy-number-leetcode202",
+    "sheet": "NeetCode 150"
+  },
+  "203": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#105-remove-linked-list-elements-leetcode203"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#105-remove-linked-list-elements-leetcode203",
+    "sheet": "Grind 75"
+  },
+  "205": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#12-isomorphic-strings-leetcode205",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#9-isomorphic-strings-leetcode205"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#9-isomorphic-strings-leetcode205",
+    "sheet": "LeetCode Top 150"
+  },
+  "206": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#52-reverse-linked-list-leetcode206",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#106-reverse-linked-list-leetcode206",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#108-reverse-linked-list-leetcode206"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#52-reverse-linked-list-leetcode206",
+    "sheet": "Blind 75"
+  },
+  "207": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#37-course-schedule-leetcode207",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#84-course-schedule-leetcode207",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#76-course-schedule-leetcode207",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#70-course-schedule-leetcode207"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#37-course-schedule-leetcode207",
+    "sheet": "Blind 75"
+  },
+  "208": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#71-implement-trie-prefix-tree-leetcode208",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#160-implement-trie-prefix-tree-leetcode208",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#143-implement-trie-prefix-tree-leetcode208",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#144-implement-trie-prefix-tree-leetcode208"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#71-implement-trie-prefix-tree-leetcode208",
+    "sheet": "Blind 75"
+  },
+  "209": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#114-minimum-size-subarray-sum-leetcode209"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#114-minimum-size-subarray-sum-leetcode209",
+    "sheet": "LeetCode Top 150"
+  },
+  "21": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#49-merge-two-sorted-lists-leetcode21",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#101-merge-two-sorted-lists-leetcode21",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#95-merge-two-sorted-lists-leetcode21",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#105-merge-two-sorted-lists-leetcode21"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#49-merge-two-sorted-lists-leetcode21",
+    "sheet": "Blind 75"
+  },
+  "210": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#77-course-schedule-ii-leetcode210",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#71-course-schedule-ii-leetcode210"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#71-course-schedule-ii-leetcode210",
+    "sheet": "NeetCode 150"
+  },
+  "211": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#70-design-add-and-search-words-data-structure-leetcode211",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#142-design-add-and-search-words-data-structure-leetcode211",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#143-design-add-and-search-words-data-structure-leetcode211"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#70-design-add-and-search-words-data-structure-leetcode211",
+    "sheet": "Blind 75"
+  },
+  "212": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#72-word-search-ii-leetcode212",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#144-word-search-ii-leetcode212",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#145-word-search-ii-leetcode212"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#72-word-search-ii-leetcode212",
+    "sheet": "Blind 75"
+  },
+  "213": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#27-house-robber-ii-leetcode213",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#52-house-robber-ii-leetcode213"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#27-house-robber-ii-leetcode213",
+    "sheet": "Blind 75"
+  },
+  "215": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#86-kth-largest-element-in-an-array-leetcode215",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#92-kth-largest-element-in-an-array-leetcode215"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#92-kth-largest-element-in-an-array-leetcode215",
+    "sheet": "NeetCode 150"
+  },
+  "217": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#1-contains-duplicate-leetcode217",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#2-contains-duplicate-leetcode217",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#1-contains-duplicate-leetcode217"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#1-contains-duplicate-leetcode217",
+    "sheet": "Blind 75"
+  },
+  "219": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#3-contains-duplicate-ii-leetcode219",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#2-contains-duplicate-ii-leetcode219"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#2-contains-duplicate-ii-leetcode219",
+    "sheet": "LeetCode Top 150"
+  },
+  "22": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#32-generate-parentheses-leetcode22",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#16-generate-parentheses-leetcode22"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#16-generate-parentheses-leetcode22",
+    "sheet": "NeetCode 150"
+  },
+  "221": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#68-maximal-square-leetcode221"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#68-maximal-square-leetcode221",
+    "sheet": "LeetCode Top 150"
+  },
+  "222": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#129-count-complete-tree-nodes-leetcode222"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#129-count-complete-tree-nodes-leetcode222",
+    "sheet": "LeetCode Top 150"
+  },
+  "224": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#117-basic-calculator-leetcode224"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#117-basic-calculator-leetcode224",
+    "sheet": "LeetCode Top 150"
+  },
+  "225": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#127-implement-stack-using-queues-leetcode225"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#127-implement-stack-using-queues-leetcode225",
+    "sheet": "Grind 75"
+  },
+  "226": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#63-invert-binary-tree-leetcode226",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#145-invert-binary-tree-leetcode226",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#131-invert-binary-tree-leetcode226",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#136-invert-binary-tree-leetcode226"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#63-invert-binary-tree-leetcode226",
+    "sheet": "Blind 75"
+  },
+  "228": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#98-summary-ranges-leetcode228",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#91-summary-ranges-leetcode228"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#91-summary-ranges-leetcode228",
+    "sheet": "LeetCode Top 150"
+  },
+  "23": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#42-merge-k-sorted-lists-leetcode23",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#93-merge-k-sorted-lists-leetcode23",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#87-merge-k-sorted-lists-leetcode23",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#94-merge-k-sorted-lists-leetcode23"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#42-merge-k-sorted-lists-leetcode23",
+    "sheet": "Blind 75"
+  },
+  "230": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#64-kth-smallest-element-in-a-bst-leetcode230",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#146-kth-smallest-element-in-a-bst-leetcode230",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#132-kth-smallest-element-in-a-bst-leetcode230",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#137-kth-smallest-element-in-a-bst-leetcode230"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#64-kth-smallest-element-in-a-bst-leetcode230",
+    "sheet": "Blind 75"
+  },
+  "231": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#63-power-of-two-leetcode231"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#63-power-of-two-leetcode231",
+    "sheet": "Grind 75"
+  },
+  "232": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#126-implement-queue-using-stacks-leetcode232"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#126-implement-queue-using-stacks-leetcode232",
+    "sheet": "Grind 75"
+  },
+  "234": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#103-palindrome-linked-list-leetcode234"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#103-palindrome-linked-list-leetcode234",
+    "sheet": "Grind 75"
+  },
+  "235": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#65-lowest-common-ancestor-of-a-binary-search-tree-leetcode235",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#147-lowest-common-ancestor-of-a-binary-search-tree-leetcode235",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#138-lowest-common-ancestor-of-a-binary-search-tree-leetcode235"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#65-lowest-common-ancestor-of-a-binary-search-tree-leetcode235",
+    "sheet": "Blind 75"
+  },
+  "236": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#148-lowest-common-ancestor-of-a-binary-tree-leetcode236",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#133-lowest-common-ancestor-of-a-binary-tree-leetcode236"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#133-lowest-common-ancestor-of-a-binary-tree-leetcode236",
+    "sheet": "LeetCode Top 150"
+  },
+  "238": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#5-product-of-array-except-self-leetcode238",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#28-product-of-array-except-self-leetcode238",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#17-product-of-array-except-self-leetcode238",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#10-product-of-array-except-self-leetcode238"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#5-product-of-array-except-self-leetcode238",
+    "sheet": "Blind 75"
+  },
+  "239": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#123-sliding-window-maximum-leetcode239"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#123-sliding-window-maximum-leetcode239",
+    "sheet": "NeetCode 150"
+  },
+  "242": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#7-valid-anagram-leetcode242",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#42-valid-anagram-leetcode242",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#27-valid-anagram-leetcode242",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#13-valid-anagram-leetcode242"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#7-valid-anagram-leetcode242",
+    "sheet": "Blind 75"
+  },
+  "25": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#100-reverse-nodes-in-k-group-leetcode25",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#109-reverse-nodes-in-k-group-leetcode25"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#109-reverse-nodes-in-k-group-leetcode25",
+    "sheet": "NeetCode 150"
+  },
+  "252": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#44-meeting-rooms-leetcode252",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#96-meeting-rooms-leetcode252",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#97-meeting-rooms-leetcode252"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#44-meeting-rooms-leetcode252",
+    "sheet": "Blind 75"
+  },
+  "253": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#45-meeting-rooms-ii-leetcode253",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#98-meeting-rooms-ii-leetcode253"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#45-meeting-rooms-ii-leetcode253",
+    "sheet": "Blind 75"
+  },
+  "257": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#136-binary-tree-paths-leetcode257"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#136-binary-tree-paths-leetcode257",
+    "sheet": "Grind 75"
+  },
+  "26": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#31-remove-duplicates-from-sorted-array-leetcode26",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#19-remove-duplicates-from-sorted-array-leetcode26"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#19-remove-duplicates-from-sorted-array-leetcode26",
+    "sheet": "LeetCode Top 150"
+  },
+  "261": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#38-graph-valid-tree-leetcode261",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#72-graph-valid-tree-leetcode261"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#38-graph-valid-tree-leetcode261",
+    "sheet": "Blind 75"
+  },
+  "268": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#15-missing-number-leetcode268",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#60-missing-number-leetcode268",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#31-missing-number-leetcode268"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#15-missing-number-leetcode268",
+    "sheet": "Blind 75"
+  },
+  "269": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#67-alien-dictionary-leetcode269"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#67-alien-dictionary-leetcode269",
+    "sheet": "NeetCode 150"
+  },
+  "27": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#32-remove-element-leetcode27",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#21-remove-element-leetcode27"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#21-remove-element-leetcode27",
+    "sheet": "LeetCode Top 150"
+  },
+  "271": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#2-encode-and-decode-strings-leetcode271",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#2-encode-and-decode-strings-leetcode271"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#2-encode-and-decode-strings-leetcode271",
+    "sheet": "Blind 75"
+  },
+  "274": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#6-h-index-leetcode274"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#6-h-index-leetcode274",
+    "sheet": "LeetCode Top 150"
+  },
+  "278": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#52-first-bad-version-leetcode278"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#52-first-bad-version-leetcode278",
+    "sheet": "Grind 75"
+  },
+  "28": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#7-find-the-index-of-the-first-occurrence-in-a-string-leetcode28",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#3-find-the-index-of-the-first-occurrence-in-a-string-leetcode28"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#3-find-the-index-of-the-first-occurrence-in-a-string-leetcode28",
+    "sheet": "LeetCode Top 150"
+  },
+  "283": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#24-move-zeroes-leetcode283"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#24-move-zeroes-leetcode283",
+    "sheet": "Grind 75"
+  },
+  "286": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#84-walls-and-gates-leetcode286"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#84-walls-and-gates-leetcode286",
+    "sheet": "NeetCode 150"
+  },
+  "287": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#3-find-the-duplicate-number-leetcode287"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#3-find-the-duplicate-number-leetcode287",
+    "sheet": "NeetCode 150"
+  },
+  "289": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#108-game-of-life-leetcode289"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#108-game-of-life-leetcode289",
+    "sheet": "LeetCode Top 150"
+  },
+  "290": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#43-word-pattern-leetcode290",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#28-word-pattern-leetcode290"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#28-word-pattern-leetcode290",
+    "sheet": "LeetCode Top 150"
+  },
+  "295": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#19-find-median-from-data-stream-leetcode295",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#66-find-median-from-data-stream-leetcode295",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#50-find-median-from-data-stream-leetcode295",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#37-find-median-from-data-stream-leetcode295"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#19-find-median-from-data-stream-leetcode295",
+    "sheet": "Blind 75"
+  },
+  "297": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#20-serialize-and-deserialize-binary-tree-leetcode297",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#69-serialize-and-deserialize-binary-tree-leetcode297",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#40-serialize-and-deserialize-binary-tree-leetcode297"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#20-serialize-and-deserialize-binary-tree-leetcode297",
+    "sheet": "Blind 75"
+  },
+  "3": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#57-longest-substring-without-repeating-characters-leetcode3",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#122-longest-substring-without-repeating-characters-leetcode3",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#113-longest-substring-without-repeating-characters-leetcode3",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#120-longest-substring-without-repeating-characters-leetcode3"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#57-longest-substring-without-repeating-characters-leetcode3",
+    "sheet": "Blind 75"
+  },
+  "30": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#116-substring-with-concatenation-of-all-words-leetcode30"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#116-substring-with-concatenation-of-all-words-leetcode30",
+    "sheet": "LeetCode Top 150"
+  },
+  "300": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#29-longest-increasing-subsequence-leetcode300",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#66-longest-increasing-subsequence-leetcode300",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#56-longest-increasing-subsequence-leetcode300"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#29-longest-increasing-subsequence-leetcode300",
+    "sheet": "Blind 75"
+  },
+  "309": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#43-best-time-to-buy-and-sell-stock-with-cooldown-leetcode309"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#43-best-time-to-buy-and-sell-stock-with-cooldown-leetcode309",
+    "sheet": "NeetCode 150"
+  },
+  "310": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#87-minimum-height-trees-leetcode310"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#87-minimum-height-trees-leetcode310",
+    "sheet": "Grind 75"
+  },
+  "312": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#44-burst-balloons-leetcode312"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#44-burst-balloons-leetcode312",
+    "sheet": "NeetCode 150"
+  },
+  "322": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#23-coin-change-leetcode322",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#74-coin-change-leetcode322",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#62-coin-change-leetcode322",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#46-coin-change-leetcode322"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#23-coin-change-leetcode322",
+    "sheet": "Blind 75"
+  },
+  "323": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#39-number-of-connected-components-in-an-undirected-graph-leetcode323",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#76-number-of-connected-components-in-an-undirected-graph-leetcode323"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#39-number-of-connected-components-in-an-undirected-graph-leetcode323",
+    "sheet": "Blind 75"
+  },
+  "326": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#116-power-of-three-leetcode326"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#116-power-of-three-leetcode326",
+    "sheet": "Grind 75"
+  },
+  "329": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#55-longest-increasing-path-in-a-matrix-leetcode329"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#55-longest-increasing-path-in-a-matrix-leetcode329",
+    "sheet": "NeetCode 150"
+  },
+  "33": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#13-search-in-rotated-sorted-array-leetcode33",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#55-search-in-rotated-sorted-array-leetcode33",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#42-search-in-rotated-sorted-array-leetcode33",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#29-search-in-rotated-sorted-array-leetcode33"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#13-search-in-rotated-sorted-array-leetcode33",
+    "sheet": "Blind 75"
+  },
+  "332": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#79-reconstruct-itinerary-leetcode332"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#79-reconstruct-itinerary-leetcode332",
+    "sheet": "NeetCode 150"
+  },
+  "338": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#14-counting-bits-leetcode338",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#59-counting-bits-leetcode338",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#30-counting-bits-leetcode338"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#14-counting-bits-leetcode338",
+    "sheet": "Blind 75"
+  },
+  "34": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#37-find-first-and-last-position-of-element-in-sorted-array-leetcode34"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#37-find-first-and-last-position-of-element-in-sorted-array-leetcode34",
+    "sheet": "LeetCode Top 150"
+  },
+  "344": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#164-reverse-string-leetcode344"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#164-reverse-string-leetcode344",
+    "sheet": "Grind 75"
+  },
+  "345": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#165-reverse-vowels-of-a-string-leetcode345"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#165-reverse-vowels-of-a-string-leetcode345",
+    "sheet": "Grind 75"
+  },
+  "347": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#11-top-k-frequent-elements-leetcode347"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#11-top-k-frequent-elements-leetcode347",
+    "sheet": "NeetCode 150"
+  },
+  "349": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#10-intersection-of-two-arrays-leetcode349"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#10-intersection-of-two-arrays-leetcode349",
+    "sheet": "Grind 75"
+  },
+  "35": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#56-search-insert-position-leetcode35",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#43-search-insert-position-leetcode35"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#43-search-insert-position-leetcode35",
+    "sheet": "LeetCode Top 150"
+  },
+  "350": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#11-intersection-of-two-arrays-ii-leetcode350"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#11-intersection-of-two-arrays-ii-leetcode350",
+    "sheet": "Grind 75"
+  },
+  "355": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#36-design-twitter-leetcode355"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#36-design-twitter-leetcode355",
+    "sheet": "NeetCode 150"
+  },
+  "36": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#112-valid-sudoku-leetcode36",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#118-valid-sudoku-leetcode36"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#118-valid-sudoku-leetcode36",
+    "sheet": "NeetCode 150"
+  },
+  "367": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#57-valid-perfect-square-leetcode367"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#57-valid-perfect-square-leetcode367",
+    "sheet": "Grind 75"
+  },
+  "371": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#18-sum-of-two-integers-leetcode371",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#35-sum-of-two-integers-leetcode371"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#18-sum-of-two-integers-leetcode371",
+    "sheet": "Blind 75"
+  },
+  "373": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#84-find-k-pairs-with-smallest-sums-leetcode373"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#84-find-k-pairs-with-smallest-sums-leetcode373",
+    "sheet": "LeetCode Top 150"
+  },
+  "374": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#53-guess-number-higher-or-lower-leetcode374"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#53-guess-number-higher-or-lower-leetcode374",
+    "sheet": "Grind 75"
+  },
+  "377": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#24-combination-sum-iv-leetcode377"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#24-combination-sum-iv-leetcode377",
+    "sheet": "Blind 75"
+  },
+  "380": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#51-insert-delete-getrandom-o1-leetcode380"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#51-insert-delete-getrandom-o1-leetcode380",
+    "sheet": "LeetCode Top 150"
+  },
+  "383": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#29-ransom-note-leetcode383",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#18-ransom-note-leetcode383"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#18-ransom-note-leetcode383",
+    "sheet": "LeetCode Top 150"
+  },
+  "387": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#8-first-unique-character-in-a-string-leetcode387"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#8-first-unique-character-in-a-string-leetcode387",
+    "sheet": "Grind 75"
+  },
+  "39": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#8-combination-sum-leetcode39",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#45-combination-sum-leetcode39",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#30-combination-sum-leetcode39",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#14-combination-sum-leetcode39"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#8-combination-sum-leetcode39",
+    "sheet": "Blind 75"
+  },
+  "392": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#163-is-subsequence-leetcode392",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#147-is-subsequence-leetcode392"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#147-is-subsequence-leetcode392",
+    "sheet": "LeetCode Top 150"
+  },
+  "399": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#78-evaluate-division-leetcode399"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#78-evaluate-division-leetcode399",
+    "sheet": "LeetCode Top 150"
+  },
+  "4": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#54-median-of-two-sorted-arrays-leetcode4",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#40-median-of-two-sorted-arrays-leetcode4",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#27-median-of-two-sorted-arrays-leetcode4"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#27-median-of-two-sorted-arrays-leetcode4",
+    "sheet": "NeetCode 150"
+  },
+  "40": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#15-combination-sum-ii-leetcode40"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#15-combination-sum-ii-leetcode40",
+    "sheet": "NeetCode 150"
+  },
+  "401": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#44-binary-watch-leetcode401"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#44-binary-watch-leetcode401",
+    "sheet": "Grind 75"
+  },
+  "404": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#156-sum-of-left-leaves-leetcode404"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#156-sum-of-left-leaves-leetcode404",
+    "sheet": "Grind 75"
+  },
+  "409": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#18-longest-palindrome-leetcode409"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#18-longest-palindrome-leetcode409",
+    "sheet": "Grind 75"
+  },
+  "412": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#112-fizz-buzz-leetcode412"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#112-fizz-buzz-leetcode412",
+    "sheet": "Grind 75"
+  },
+  "414": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#40-third-maximum-number-leetcode414"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#40-third-maximum-number-leetcode414",
+    "sheet": "Grind 75"
+  },
+  "415": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#107-add-strings-leetcode415"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#107-add-strings-leetcode415",
+    "sheet": "Grind 75"
+  },
+  "416": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#78-partition-equal-subset-sum-leetcode416",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#62-partition-equal-subset-sum-leetcode416"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#62-partition-equal-subset-sum-leetcode416",
+    "sheet": "NeetCode 150"
+  },
+  "417": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#41-pacific-atlantic-water-flow-leetcode417",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#78-pacific-atlantic-water-flow-leetcode417"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#41-pacific-atlantic-water-flow-leetcode417",
+    "sheet": "Blind 75"
+  },
+  "42": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#167-trapping-rain-water-leetcode42",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#148-trapping-rain-water-leetcode42",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#148-trapping-rain-water-leetcode42"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#148-trapping-rain-water-leetcode42",
+    "sheet": "NeetCode 150"
+  },
+  "424": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#56-longest-repeating-character-replacement-leetcode424",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#119-longest-repeating-character-replacement-leetcode424"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#56-longest-repeating-character-replacement-leetcode424",
+    "sheet": "Blind 75"
+  },
+  "427": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#54-construct-quad-tree-leetcode427"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#54-construct-quad-tree-leetcode427",
+    "sheet": "LeetCode Top 150"
+  },
+  "43": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#111-multiply-strings-leetcode43"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#111-multiply-strings-leetcode43",
+    "sheet": "NeetCode 150"
+  },
+  "433": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#79-minimum-genetic-mutation-leetcode433"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#79-minimum-genetic-mutation-leetcode433",
+    "sheet": "LeetCode Top 150"
+  },
+  "434": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#25-number-of-segments-in-a-string-leetcode434"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#25-number-of-segments-in-a-string-leetcode434",
+    "sheet": "Grind 75"
+  },
+  "435": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#47-non-overlapping-intervals-leetcode435",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#101-non-overlapping-intervals-leetcode435"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#47-non-overlapping-intervals-leetcode435",
+    "sheet": "Blind 75"
+  },
+  "438": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#121-find-all-anagrams-in-a-string-leetcode438"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#121-find-all-anagrams-in-a-string-leetcode438",
+    "sheet": "Grind 75"
+  },
+  "441": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#50-arranging-coins-leetcode441"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#50-arranging-coins-leetcode441",
+    "sheet": "Grind 75"
+  },
+  "448": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#6-find-all-numbers-disappeared-in-an-array-leetcode448"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#6-find-all-numbers-disappeared-in-an-array-leetcode448",
+    "sheet": "Grind 75"
+  },
+  "45": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#11-jump-game-ii-leetcode45",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#8-jump-game-ii-leetcode45"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#8-jump-game-ii-leetcode45",
+    "sheet": "NeetCode 150"
+  },
+  "452": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#90-minimum-number-of-arrows-to-burst-balloons-leetcode452"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#90-minimum-number-of-arrows-to-burst-balloons-leetcode452",
+    "sheet": "LeetCode Top 150"
+  },
+  "455": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#90-assign-cookies-leetcode455"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#90-assign-cookies-leetcode455",
+    "sheet": "Grind 75"
+  },
+  "459": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#33-repeated-substring-pattern-leetcode459"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#33-repeated-substring-pattern-leetcode459",
+    "sheet": "Grind 75"
+  },
+  "46": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#10-permutations-leetcode46",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#47-permutations-leetcode46",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#35-permutations-leetcode46",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#20-permutations-leetcode46"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#10-permutations-leetcode46",
+    "sheet": "Blind 75"
+  },
+  "463": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#86-island-perimeter-leetcode463"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#86-island-perimeter-leetcode463",
+    "sheet": "Grind 75"
+  },
+  "476": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#61-number-complement-leetcode476"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#61-number-complement-leetcode476",
+    "sheet": "Grind 75"
+  },
+  "48": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#53-rotate-image-leetcode48",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#109-rotate-image-leetcode48",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#115-rotate-image-leetcode48"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#53-rotate-image-leetcode48",
+    "sheet": "Blind 75"
+  },
+  "482": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#15-license-key-formatting-leetcode482"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#15-license-key-formatting-leetcode482",
+    "sheet": "Grind 75"
+  },
+  "485": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#21-max-consecutive-ones-leetcode485"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#21-max-consecutive-ones-leetcode485",
+    "sheet": "Grind 75"
+  },
+  "49": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#3-group-anagrams-leetcode49",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#5-group-anagrams-leetcode49",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#5-group-anagrams-leetcode49"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#3-group-anagrams-leetcode49",
+    "sheet": "Blind 75"
+  },
+  "492": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#109-construct-the-rectangle-leetcode492"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#109-construct-the-rectangle-leetcode492",
+    "sheet": "Grind 75"
+  },
+  "494": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#64-target-sum-leetcode494"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#64-target-sum-leetcode494",
+    "sheet": "NeetCode 150"
+  },
+  "496": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#129-next-greater-element-i-leetcode496"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#129-next-greater-element-i-leetcode496",
+    "sheet": "Grind 75"
+  },
+  "5": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#30-longest-palindromic-substring-leetcode5",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#76-longest-palindromic-substring-leetcode5",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#67-longest-palindromic-substring-leetcode5",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#57-longest-palindromic-substring-leetcode5"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#30-longest-palindromic-substring-leetcode5",
+    "sheet": "Blind 75"
+  },
+  "50": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#106-powx-n-leetcode50",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#113-powx-n-leetcode50"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#113-powx-n-leetcode50",
+    "sheet": "NeetCode 150"
+  },
+  "500": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#13-keyboard-row-leetcode500"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#13-keyboard-row-leetcode500",
+    "sheet": "Grind 75"
+  },
+  "501": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#144-find-mode-in-binary-search-tree-leetcode501"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#144-find-mode-in-binary-search-tree-leetcode501",
+    "sheet": "Grind 75"
+  },
+  "502": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#85-ipo-leetcode502"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#85-ipo-leetcode502",
+    "sheet": "LeetCode Top 150"
+  },
+  "504": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#108-base-7-leetcode504"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#108-base-7-leetcode504",
+    "sheet": "Grind 75"
+  },
+  "506": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#30-relative-ranks-leetcode506"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#30-relative-ranks-leetcode506",
+    "sheet": "Grind 75"
+  },
+  "507": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#114-perfect-number-leetcode507"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#114-perfect-number-leetcode507",
+    "sheet": "Grind 75"
+  },
+  "509": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#75-fibonacci-number-leetcode509"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#75-fibonacci-number-leetcode509",
+    "sheet": "Grind 75"
+  },
+  "51": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#18-n-queens-leetcode51"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#18-n-queens-leetcode51",
+    "sheet": "NeetCode 150"
+  },
+  "518": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#47-coin-change-ii-leetcode518"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#47-coin-change-ii-leetcode518",
+    "sheet": "NeetCode 150"
+  },
+  "52": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#34-n-queens-ii-leetcode52"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#34-n-queens-ii-leetcode52",
+    "sheet": "LeetCode Top 150"
+  },
+  "520": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#4-detect-capital-leetcode520"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#4-detect-capital-leetcode520",
+    "sheet": "Grind 75"
+  },
+  "521": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#19-longest-uncommon-subsequence-i-leetcode521"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#19-longest-uncommon-subsequence-i-leetcode521",
+    "sheet": "Grind 75"
+  },
+  "53": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#32-maximum-subarray-leetcode53",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#77-maximum-subarray-leetcode53",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#69-maximum-subarray-leetcode53",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#59-maximum-subarray-leetcode53"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#32-maximum-subarray-leetcode53",
+    "sheet": "Blind 75"
+  },
+  "530": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#151-minimum-absolute-difference-in-bst-leetcode530",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#135-minimum-absolute-difference-in-bst-leetcode530"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#135-minimum-absolute-difference-in-bst-leetcode530",
+    "sheet": "LeetCode Top 150"
+  },
+  "54": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#55-spiral-matrix-leetcode54",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#120-spiral-matrix-leetcode54",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#111-spiral-matrix-leetcode54",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#117-spiral-matrix-leetcode54"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#55-spiral-matrix-leetcode54",
+    "sheet": "Blind 75"
+  },
+  "541": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#34-reverse-string-ii-leetcode541"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#34-reverse-string-ii-leetcode541",
+    "sheet": "Grind 75"
+  },
+  "542": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#81-01-matrix-leetcode542"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#81-01-matrix-leetcode542",
+    "sheet": "Grind 75"
+  },
+  "543": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#143-diameter-of-binary-tree-leetcode543",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#135-diameter-of-binary-tree-leetcode543"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#135-diameter-of-binary-tree-leetcode543",
+    "sheet": "NeetCode 150"
+  },
+  "55": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#4-jump-game-leetcode55",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#10-jump-game-leetcode55",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#7-jump-game-leetcode55"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#4-jump-game-leetcode55",
+    "sheet": "Blind 75"
+  },
+  "551": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#39-student-attendance-record-i-leetcode551"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#39-student-attendance-record-i-leetcode551",
+    "sheet": "Grind 75"
+  },
+  "557": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#166-reverse-words-in-a-string-iii-leetcode557"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#166-reverse-words-in-a-string-iii-leetcode557",
+    "sheet": "Grind 75"
+  },
+  "56": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#46-merge-intervals-leetcode56",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#97-merge-intervals-leetcode56",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#89-merge-intervals-leetcode56",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#99-merge-intervals-leetcode56"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#46-merge-intervals-leetcode56",
+    "sheet": "Blind 75"
+  },
+  "561": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#1-array-partition-leetcode561"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#1-array-partition-leetcode561",
+    "sheet": "Grind 75"
+  },
+  "563": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#140-binary-tree-tilt-leetcode563"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#140-binary-tree-tilt-leetcode563",
+    "sheet": "Grind 75"
+  },
+  "566": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#119-reshape-the-matrix-leetcode566"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#119-reshape-the-matrix-leetcode566",
+    "sheet": "Grind 75"
+  },
+  "567": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#122-permutation-in-string-leetcode567"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#122-permutation-in-string-leetcode567",
+    "sheet": "NeetCode 150"
+  },
+  "57": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#43-insert-interval-leetcode57",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#95-insert-interval-leetcode57",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#88-insert-interval-leetcode57",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#96-insert-interval-leetcode57"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#43-insert-interval-leetcode57",
+    "sheet": "Blind 75"
+  },
+  "572": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#68-subtree-of-another-tree-leetcode572",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#155-subtree-of-another-tree-leetcode572",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#141-subtree-of-another-tree-leetcode572"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#68-subtree-of-another-tree-leetcode572",
+    "sheet": "Blind 75"
+  },
+  "575": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#5-distribute-candies-leetcode575"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#5-distribute-candies-leetcode575",
+    "sheet": "Grind 75"
+  },
+  "58": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#14-length-of-last-word-leetcode58",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#12-length-of-last-word-leetcode58"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#12-length-of-last-word-leetcode58",
+    "sheet": "LeetCode Top 150"
+  },
+  "594": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#17-longest-harmonious-subsequence-leetcode594"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#17-longest-harmonious-subsequence-leetcode594",
+    "sheet": "Grind 75"
+  },
+  "598": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#117-range-addition-ii-leetcode598"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#117-range-addition-ii-leetcode598",
+    "sheet": "Grind 75"
+  },
+  "599": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#23-minimum-index-sum-of-two-lists-leetcode599"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#23-minimum-index-sum-of-two-lists-leetcode599",
+    "sheet": "Grind 75"
+  },
+  "6": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#29-zigzag-conversion-leetcode6"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#29-zigzag-conversion-leetcode6",
+    "sheet": "LeetCode Top 150"
+  },
+  "605": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#91-can-place-flowers-leetcode605"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#91-can-place-flowers-leetcode605",
+    "sheet": "Grind 75"
+  },
+  "606": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#142-construct-string-from-binary-tree-leetcode606"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#142-construct-string-from-binary-tree-leetcode606",
+    "sheet": "Grind 75"
+  },
+  "61": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#101-rotate-list-leetcode61"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#101-rotate-list-leetcode61",
+    "sheet": "LeetCode Top 150"
+  },
+  "617": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#150-merge-two-binary-trees-leetcode617"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#150-merge-two-binary-trees-leetcode617",
+    "sheet": "Grind 75"
+  },
+  "62": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#34-unique-paths-leetcode62",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#79-unique-paths-leetcode62",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#65-unique-paths-leetcode62"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#34-unique-paths-leetcode62",
+    "sheet": "Blind 75"
+  },
+  "621": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#94-task-scheduler-leetcode621",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#95-task-scheduler-leetcode621"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#95-task-scheduler-leetcode621",
+    "sheet": "NeetCode 150"
+  },
+  "628": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#113-maximum-product-of-three-numbers-leetcode628"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#113-maximum-product-of-three-numbers-leetcode628",
+    "sheet": "Grind 75"
+  },
+  "63": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#73-unique-paths-ii-leetcode63"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#73-unique-paths-ii-leetcode63",
+    "sheet": "LeetCode Top 150"
+  },
+  "637": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#131-average-of-levels-in-binary-tree-leetcode637",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#121-average-of-levels-in-binary-tree-leetcode637"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#121-average-of-levels-in-binary-tree-leetcode637",
+    "sheet": "LeetCode Top 150"
+  },
+  "64": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#71-minimum-path-sum-leetcode64"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#71-minimum-path-sum-leetcode64",
+    "sheet": "LeetCode Top 150"
+  },
+  "643": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#123-maximum-average-subarray-i-leetcode643"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#123-maximum-average-subarray-i-leetcode643",
+    "sheet": "Grind 75"
+  },
+  "645": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#36-set-mismatch-leetcode645"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#36-set-mismatch-leetcode645",
+    "sheet": "Grind 75"
+  },
+  "647": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#33-palindromic-substrings-leetcode647",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#61-palindromic-substrings-leetcode647"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#33-palindromic-substrings-leetcode647",
+    "sheet": "Blind 75"
+  },
+  "653": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#158-two-sum-iv-input-is-a-bst-leetcode653"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#158-two-sum-iv-input-is-a-bst-leetcode653",
+    "sheet": "Grind 75"
+  },
+  "66": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#115-plus-one-leetcode66",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#105-plus-one-leetcode66",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#112-plus-one-leetcode66"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#112-plus-one-leetcode66",
+    "sheet": "NeetCode 150"
+  },
+  "67": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#58-add-binary-leetcode67",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#44-add-binary-leetcode67"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#44-add-binary-leetcode67",
+    "sheet": "LeetCode Top 150"
+  },
+  "678": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#89-valid-parenthesis-string-leetcode678"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#89-valid-parenthesis-string-leetcode678",
+    "sheet": "NeetCode 150"
+  },
+  "68": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#25-text-justification-leetcode68"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#25-text-justification-leetcode68",
+    "sheet": "LeetCode Top 150"
+  },
+  "684": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#80-redundant-connection-leetcode684"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#80-redundant-connection-leetcode684",
+    "sheet": "NeetCode 150"
+  },
+  "69": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#118-sqrtx-leetcode69",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#107-sqrtx-leetcode69"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#107-sqrtx-leetcode69",
+    "sheet": "LeetCode Top 150"
+  },
+  "695": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#73-max-area-of-island-leetcode695"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#73-max-area-of-island-leetcode695",
+    "sheet": "NeetCode 150"
+  },
+  "7": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#114-reverse-integer-leetcode7"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#114-reverse-integer-leetcode7",
+    "sheet": "NeetCode 150"
+  },
+  "70": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#22-climbing-stairs-leetcode70",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#73-climbing-stairs-leetcode70",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#61-climbing-stairs-leetcode70",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#45-climbing-stairs-leetcode70"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#22-climbing-stairs-leetcode70",
+    "sheet": "Blind 75"
+  },
+  "703": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#91-kth-largest-element-in-a-stream-leetcode703"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#91-kth-largest-element-in-a-stream-leetcode703",
+    "sheet": "NeetCode 150"
+  },
+  "704": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#51-binary-search-leetcode704",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#24-binary-search-leetcode704"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#24-binary-search-leetcode704",
+    "sheet": "NeetCode 150"
+  },
+  "71": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#119-simplify-path-leetcode71"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#119-simplify-path-leetcode71",
+    "sheet": "LeetCode Top 150"
+  },
+  "72": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#63-edit-distance-leetcode72",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#50-edit-distance-leetcode72"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#50-edit-distance-leetcode72",
+    "sheet": "NeetCode 150"
+  },
+  "721": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#82-accounts-merge-leetcode721"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#82-accounts-merge-leetcode721",
+    "sheet": "Grind 75"
+  },
+  "73": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#54-set-matrix-zeroes-leetcode73",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#110-set-matrix-zeroes-leetcode73",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#116-set-matrix-zeroes-leetcode73"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#54-set-matrix-zeroes-leetcode73",
+    "sheet": "Blind 75"
+  },
+  "733": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#85-flood-fill-leetcode733"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#85-flood-fill-leetcode733",
+    "sheet": "Grind 75"
+  },
+  "739": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#125-daily-temperatures-leetcode739"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#125-daily-temperatures-leetcode739",
+    "sheet": "NeetCode 150"
+  },
+  "74": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#41-search-a-2d-matrix-leetcode74",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#28-search-a-2d-matrix-leetcode74"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#28-search-a-2d-matrix-leetcode74",
+    "sheet": "NeetCode 150"
+  },
+  "743": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#75-network-delay-time-leetcode743"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#75-network-delay-time-leetcode743",
+    "sheet": "NeetCode 150"
+  },
+  "746": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#60-min-cost-climbing-stairs-leetcode746"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#60-min-cost-climbing-stairs-leetcode746",
+    "sheet": "NeetCode 150"
+  },
+  "75": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#37-sort-colors-leetcode75"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#37-sort-colors-leetcode75",
+    "sheet": "Grind 75"
+  },
+  "76": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#58-minimum-window-substring-leetcode76",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#124-minimum-window-substring-leetcode76",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#115-minimum-window-substring-leetcode76",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#121-minimum-window-substring-leetcode76"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#58-minimum-window-substring-leetcode76",
+    "sheet": "Blind 75"
+  },
+  "763": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#88-partition-labels-leetcode763"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#88-partition-labels-leetcode763",
+    "sheet": "NeetCode 150"
+  },
+  "77": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#31-combinations-leetcode77"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#31-combinations-leetcode77",
+    "sheet": "LeetCode Top 150"
+  },
+  "778": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#83-swim-in-rising-water-leetcode778"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#83-swim-in-rising-water-leetcode778",
+    "sheet": "NeetCode 150"
+  },
+  "78": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#48-subsets-leetcode78",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#21-subsets-leetcode78"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#21-subsets-leetcode78",
+    "sheet": "NeetCode 150"
+  },
+  "787": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#68-cheapest-flights-within-k-stops-leetcode787"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#68-cheapest-flights-within-k-stops-leetcode787",
+    "sheet": "NeetCode 150"
+  },
+  "79": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#11-word-search-leetcode79",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#49-word-search-leetcode79",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#36-word-search-leetcode79",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#23-word-search-leetcode79"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#11-word-search-leetcode79",
+    "sheet": "Blind 75"
+  },
+  "8": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#38-string-to-integer-atoi-leetcode8"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#38-string-to-integer-atoi-leetcode8",
+    "sheet": "Grind 75"
+  },
+  "80": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#20-remove-duplicates-from-sorted-array-ii-leetcode80"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#20-remove-duplicates-from-sorted-array-ii-leetcode80",
+    "sheet": "LeetCode Top 150"
+  },
+  "82": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#97-remove-duplicates-from-sorted-list-ii-leetcode82"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#97-remove-duplicates-from-sorted-list-ii-leetcode82",
+    "sheet": "LeetCode Top 150"
+  },
+  "83": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#104-remove-duplicates-from-sorted-list-leetcode83"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#104-remove-duplicates-from-sorted-list-leetcode83",
+    "sheet": "Grind 75"
+  },
+  "84": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#128-largest-rectangle-in-histogram-leetcode84",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#127-largest-rectangle-in-histogram-leetcode84"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#127-largest-rectangle-in-histogram-leetcode84",
+    "sheet": "NeetCode 150"
+  },
+  "846": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#86-hand-of-straights-leetcode846"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#86-hand-of-straights-leetcode846",
+    "sheet": "NeetCode 150"
+  },
+  "853": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#124-car-fleet-leetcode853"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#124-car-fleet-leetcode853",
+    "sheet": "NeetCode 150"
+  },
+  "86": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#96-partition-list-leetcode86"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#96-partition-list-leetcode86",
+    "sheet": "LeetCode Top 150"
+  },
+  "875": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#26-koko-eating-bananas-leetcode875"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#26-koko-eating-bananas-leetcode875",
+    "sheet": "NeetCode 150"
+  },
+  "876": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#102-middle-of-the-linked-list-leetcode876"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#102-middle-of-the-linked-list-leetcode876",
+    "sheet": "Grind 75"
+  },
+  "88": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#22-merge-sorted-array-leetcode88",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#16-merge-sorted-array-leetcode88"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#16-merge-sorted-array-leetcode88",
+    "sheet": "LeetCode Top 150"
+  },
+  "9": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#104-palindrome-number-leetcode9"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#104-palindrome-number-leetcode9",
+    "sheet": "LeetCode Top 150"
+  },
+  "90": {
+    "by_sheet": {
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#22-subsets-ii-leetcode90"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#22-subsets-ii-leetcode90",
+    "sheet": "NeetCode 150"
+  },
+  "909": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#81-snakes-and-ladders-leetcode909"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#81-snakes-and-ladders-leetcode909",
+    "sheet": "LeetCode Top 150"
+  },
+  "91": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#25-decode-ways-leetcode91",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#48-decode-ways-leetcode91"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#25-decode-ways-leetcode91",
+    "sheet": "Blind 75"
+  },
+  "918": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#70-maximum-sum-circular-subarray-leetcode918"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#70-maximum-sum-circular-subarray-leetcode918",
+    "sheet": "LeetCode Top 150"
+  },
+  "92": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#99-reverse-linked-list-ii-leetcode92"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#99-reverse-linked-list-ii-leetcode92",
+    "sheet": "LeetCode Top 150"
+  },
+  "94": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#133-binary-tree-inorder-traversal-leetcode94"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#133-binary-tree-inorder-traversal-leetcode94",
+    "sheet": "Grind 75"
+  },
+  "97": {
+    "by_sheet": {
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#65-interleaving-string-leetcode97",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#53-interleaving-string-leetcode97"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#53-interleaving-string-leetcode97",
+    "sheet": "NeetCode 150"
+  },
+  "973": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#92-k-closest-points-to-origin-leetcode973",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#90-k-closest-points-to-origin-leetcode973"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#90-k-closest-points-to-origin-leetcode973",
+    "sheet": "NeetCode 150"
+  },
+  "98": {
+    "by_sheet": {
+      "Blind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#69-validate-binary-search-tree-leetcode98",
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#159-validate-binary-search-tree-leetcode98",
+      "LeetCode Top 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/LeetCode%20Top%20150/#141-validate-binary-search-tree-leetcode98",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#142-validate-binary-search-tree-leetcode98"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Blind%2075/#69-validate-binary-search-tree-leetcode98",
+    "sheet": "Blind 75"
+  },
+  "981": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#70-time-based-key-value-store-leetcode981",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#41-time-based-key-value-store-leetcode981"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#41-time-based-key-value-store-leetcode981",
+    "sheet": "NeetCode 150"
+  },
+  "994": {
+    "by_sheet": {
+      "Grind 75": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/Grind%2075/#89-rotting-oranges-leetcode994",
+      "NeetCode 150": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#81-rotting-oranges-leetcode994"
+    },
+    "default": "https://abhijitmore.github.io/BrewingIntelligence/Programming/DSA%20Sheets/NeetCode%20150/#81-rotting-oranges-leetcode994",
+    "sheet": "NeetCode 150"
+  }
+}
